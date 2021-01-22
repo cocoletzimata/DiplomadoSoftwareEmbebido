@@ -45,41 +45,9 @@
 								<_hid type="a">GUID df3803bc-7fa4-4c8b-8714-1d8f0a667f60</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">32 40 </_UpLeft>
-						<_DownRight type="a">1102 553 </_DownRight>
-						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">130</m_nLeft>
-								<m_nTop type="a">130</m_nTop>
-								<m_nRight type="a">809</m_nRight>
-								<m_nBottom type="a">498</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
-								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
-								<_hname type="a">bdd_functionalarchitecture</_hname>
-								<_hid type="a">GUID 80a6b47a-2fa0-4cdd-b711-082f038082b9</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 -44 </_UpLeft>
-						<_DownRight type="a">642 264 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">803 385 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -111,7 +79,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">642 288 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -127,23 +95,23 @@
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">78</m_nLeft>
 								<m_nTop type="a">78</m_nTop>
-								<m_nRight type="a">757</m_nRight>
-								<m_nBottom type="a">446</m_nBottom>
+								<m_nRight type="a">590</m_nRight>
+								<m_nBottom type="a">311</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IMSC</_hm2Class>
-								<_hfilename type="a">.\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
-								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
-								<_hname type="a">sqd_DoorManualModeFunctional</_hname>
-								<_hid type="a">GUID e1c7fa2c-415d-4b74-9fc0-d8306ba9fcae</_hid>
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_layerdiagram</_hname>
+								<_hid type="a">GUID 0cf7c7de-0bf5-44c8-b8de-a0f8b372910a</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 189 </_UpLeft>
-						<_DownRight type="a">1031 980 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<_UpLeft type="a">57 50 </_UpLeft>
+						<_DownRight type="a">1088 861 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -157,25 +125,89 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">104</m_nLeft>
-								<m_nTop type="a">104</m_nTop>
-								<m_nRight type="a">783</m_nRight>
-								<m_nBottom type="a">472</m_nBottom>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">922</m_nRight>
+								<m_nBottom type="a">702</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_physicalinterface</_hname>
+								<_hid type="a">GUID a3fa47ae-6e0e-4f7c-aad5-5dd972abea75</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">2157 1463 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">52</m_nLeft>
+								<m_nTop type="a">52</m_nTop>
+								<m_nRight type="a">844</m_nRight>
+								<m_nBottom type="a">624</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_swDecomposition</_hname>
+								<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-127 0 </_UpLeft>
+						<_DownRight type="a">628 512 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">260</m_nLeft>
+								<m_nTop type="a">260</m_nTop>
+								<m_nRight type="a">1052</m_nRight>
+								<m_nBottom type="a">832</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IMSC</_hm2Class>
-								<_hfilename type="a">.\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
-								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
-								<_hname type="a">sqd_DoorRemoteModeFuntional</_hname>
-								<_hid type="a">GUID 82bf909d-b0fe-41aa-86d5-e360e8bfed67</_hid>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_AutoLockFuntional</_hname>
+								<_hid type="a">GUID 5d280328-d9cb-41a7-863c-9a0c16ff3e8c</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 722 </_UpLeft>
-						<_DownRight type="a">856 1106 </_DownRight>
-						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">755 492 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -191,7 +223,7 @@
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">156</m_nLeft>
 								<m_nTop type="a">156</m_nTop>
-								<m_nRight type="a">1038</m_nRight>
+								<m_nRight type="a">948</m_nRight>
 								<m_nBottom type="a">728</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -199,15 +231,47 @@
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IMSC</_hm2Class>
-								<_hfilename type="a">.\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
-								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
-								<_hname type="a">sqd_WindowManualModeFunctional</_hname>
-								<_hid type="a">GUID 14446739-c792-4e60-9954-4e6689b3cada</_hid>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_DoorManualModeFunctional</_hname>
+								<_hid type="a">GUID 3b929ac7-ea8e-4f60-9ca0-fb62b52a8538</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 2660 </_UpLeft>
-						<_DownRight type="a">1126 3316 </_DownRight>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<_UpLeft type="a">0 120 </_UpLeft>
+						<_DownRight type="a">755 612 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">182</m_nLeft>
+								<m_nTop type="a">182</m_nTop>
+								<m_nRight type="a">974</m_nRight>
+								<m_nBottom type="a">754</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_DoorRemoteModeFuntional</_hname>
+								<_hid type="a">GUID de61f15a-23ed-4ee3-acaf-88fc113377de</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">755 492 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -223,7 +287,7 @@
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">208</m_nLeft>
 								<m_nTop type="a">208</m_nTop>
-								<m_nRight type="a">1090</m_nRight>
+								<m_nRight type="a">1000</m_nRight>
 								<m_nBottom type="a">780</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -231,15 +295,47 @@
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IMSC</_hm2Class>
-								<_hfilename type="a">.\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
-								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
-								<_hname type="a">sqd_WindowRemoteOperationFunctional</_hname>
-								<_hid type="a">GUID 37a72aa6-0453-4e39-a0f9-a09f11c1d4bd</_hid>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_WindowManualModeFunctional</_hname>
+								<_hid type="a">GUID 3b0d8550-c1a9-4932-97bd-b098d9cb411f</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 398 </_UpLeft>
-						<_DownRight type="a">1173 1081 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">755 492 </_DownRight>
 						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">234</m_nLeft>
+								<m_nTop type="a">234</m_nTop>
+								<m_nRight type="a">1026</m_nRight>
+								<m_nBottom type="a">806</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\DCU_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_WindowRemoteOperationFunctional</_hname>
+								<_hid type="a">GUID a60f1976-9379-471c-8db2-4f5d105c3d7e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">755 492 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -266,6 +362,16 @@
 				<idOrFolder type="a">folder</idOrFolder>
 			</favoritesItem>
 			
+
+	- tableMatrixRowAdditionHight = {
+		count=1;
+		{ - TableMatrixView
+			id=20375091-1b18-4b3e-8272-e6daf28fc72f;
+			rowAdditionalHight=;;
+			rowAdditionalHightExt=;
+		}
+	}
+
 		</CGEMdiWorkspace>
 		
 	</RHAPSODY-MODEL>
