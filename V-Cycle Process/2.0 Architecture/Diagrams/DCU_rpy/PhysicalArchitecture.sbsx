@@ -12,11 +12,11 @@
 			<_id type="a">GUID df3264bb-ab17-40e1-8179-d185bb375b54</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PhysicalArchitecture</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::6:11:1</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::6:45:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.21.2021::21:15:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2021::22:58:57</_modifiedTime>
 			<_lastID type="a">87</_lastID>
-			<weakCGTime type="a">1.21.2021::6:11:1</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::21:15:47</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_defaultComposite type="s">GUID 3f0f4a2a-2197-4fb0-ac4a-f4a5df2108ed</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.19.2021::7:56:44</_configurationRelatedTime>
@@ -309,8 +309,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::0:39:27</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::0:39:27</_lastModifiedTime>
+			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
+			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -7967,8 +7967,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::0:39:27</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::0:39:27</_lastModifiedTime>
+			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
+			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -11662,8 +11662,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::5:42:18</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::5:42:31</_lastModifiedTime>
+			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
+			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -22337,8 +22337,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::2:56:59</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::2:56:59</_lastModifiedTime>
+			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
+			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -32237,10 +32237,6 @@
 				<_id type="a">GUID 62b80edc-bec6-4e33-be27-fd52c44a4ce1</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 				<_modifiedTime type="a">1.21.2021::5:8:48</_modifiedTime>
-				<InteractionOccurrences type="c">
-					<IRPYRawContainer type="e">
-					</IRPYRawContainer>
-				</InteractionOccurrences>
 				<AggregatesList type="e">
 					<value>GUID 796186d5-c071-43c6-adfa-fb2b8689a8d9</value>
 					<value>GUID c62df65d-4def-4bde-93bc-f3a139463212</value>
@@ -34494,10 +34490,6 @@
 				<_name type="a">interactionOperand_0</_name>
 				<_modifiedTimeWeak type="a">1.21.2021::3:59:31</_modifiedTimeWeak>
 				<_modifiedTime type="a">1.21.2021::3:59:31</_modifiedTime>
-				<InteractionOccurrences type="c">
-					<IRPYRawContainer type="e">
-					</IRPYRawContainer>
-				</InteractionOccurrences>
 				<_interactionConstraint type="a">DCU == DriverDoor%0D</_interactionConstraint>
 				<AggregatesList type="e">
 					<value>GUID e87ec192-f06d-4c3c-ad26-757a8b311d24</value>
@@ -35522,7 +35514,8 @@
 			<m_pParent type="s">GUID 59b8e53b-ee09-4fa3-932a-e68f9af6d5e1</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">WINDOW_UP == WindowOp || WINDOW_DOWN == WindowOp%0D</m_str>
+					<m_str type="a">WINDOW_UP == WindowOp || WINDOW_DOWN == WindowOp%0D
+</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -42733,10 +42726,6 @@ _REQ</m_str>
 				<_name type="a">interactionOperand_0</_name>
 				<_modifiedTimeWeak type="a">1.21.2021::6:7:5</_modifiedTimeWeak>
 				<_modifiedTime type="a">1.21.2021::6:7:5</_modifiedTime>
-				<CombinedFragments type="c">
-					<IRPYRawContainer type="e">
-					</IRPYRawContainer>
-				</CombinedFragments>
 				<_interactionConstraint type="a">(LOCK_BTN ==BTN_PRESSED &amp;&amp; UNLOCK_BTN == BTN_PRESSED)</_interactionConstraint>
 			</IInteractionOperand>
 			<IInteractionOperand type="e">
@@ -46700,7 +46689,8 @@ _REQ</m_str>
 			<m_pParent type="s">GUID 1ee1cd23-cd66-4a0c-87c4-4994098ad093</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Transition from NoCmd to UnlockDrvrCmd &amp;&amp; DCU1 == DriverDoor%0D</m_str>
+					<m_str type="a">Transition from NoCmd to UnlockDrvrCmd &amp;&amp; DCU1 == DriverDoor%0D
+</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -47067,10 +47057,10 @@ _REQ</m_str>
 			<_id type="a">GUID 3f0f4a2a-2197-4fb0-ac4a-f4a5df2108ed</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -47094,7 +47084,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -47102,8 +47092,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:8:4</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -47224,7 +47214,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:56:56</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -47232,8 +47222,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.21.2021::2:56:56</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::2:56:56</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -47488,7 +47478,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:56:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -47496,8 +47486,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.21.2021::2:56:0</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::2:56:0</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48574,7 +48564,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -48582,8 +48572,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:4:43</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48607,7 +48597,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -48615,8 +48605,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:6:20</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48640,7 +48630,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -48648,8 +48638,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:5:14</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48673,7 +48663,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -48681,8 +48671,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:6:34</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48706,7 +48696,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -48714,8 +48704,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.19.2021::5:6:51</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48739,17 +48729,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::5:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::21:32:12</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::5:56:2</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:32:12</_modifiedTime>
 			<_lastID type="a">19</_lastID>
-			<weakCGTime type="a">1.21.2021::5:56:2</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::21:32:12</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -48974,10 +48964,9 @@ _REQ</m_str>
 		</IDependency>
 		<IInformationFlow type="e">
 			<_id type="a">GUID e3d2590c-0912-480c-b2ef-1bea02627c4a</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">ButtonManager_DoorLockingApp</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::6:44:29</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:14:59</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -48991,13 +48980,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DetermineButtonPressed</_hname>
+					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -49018,10 +49013,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID c9e76975-6fca-4d26-a7a9-0ceea1e69b50</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">ButtonManager_WindowControlApp</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::6:42:54</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:14:59</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -49035,13 +49029,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DetermineButtonPressed</_hname>
+					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -49092,10 +49092,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID b7a4ff7f-0604-4c98-a5e3-321e1c4084f4</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">ButtonManager_ErrorHandling</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:35:48</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:14:59</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -49109,13 +49108,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DetermineButtonPressed</_hname>
+					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 968f1010-6d06-48c3-9d41-6461d712b306</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">ErrorManager</_hname>
+					<_hid type="a">GUID f3b246e0-84da-4069-9658-f708805e308a</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -49479,16 +49484,16 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::4:3:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:46</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::4:3:18</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:46</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">1.21.2021::4:3:18</weakCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:46</weakCGTime>
 			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -49699,7 +49704,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -49708,8 +49713,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.20.2021::7:46:17</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -49811,17 +49816,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::6:24:31</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:42</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::6:24:31</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:42</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.21.2021::6:24:31</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:42</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -49923,17 +49928,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::5:45:58</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:45</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::5:45:58</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:45</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">1.21.2021::5:45:58</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:45</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -50357,7 +50362,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -50366,8 +50371,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.20.2021::7:35:34</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -50469,17 +50474,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::6:34:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:49</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::6:34:0</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:49</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">1.21.2021::6:34:0</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:49</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -50499,9 +50504,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 83d48031-d7d3-46ea-8b93-ea8937f4c79c</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">DoorLockingApp_ConfigurationInfo</_name>
+			<_name type="a">DoorLocking_CheckConfigurationInfo</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:50:34</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:35</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -50515,13 +50520,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID f781802c-bb82-45a0-aa86-c13b4a4a8168</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CheckConfigurationInfo</_hname>
+					<_hid type="a">GUID 2eee306c-57d4-4af9-8a74-dd261eec92cb</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">bidirectional</direction_>
@@ -50536,9 +50547,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 837d7fb2-b794-485e-acdb-eb3451d2e2cc</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">WindowControlApp_ConfigurationInfo</_name>
+			<_name type="a">WindowControl_CheckConfigurationInfo</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:50:28</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:29</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -50558,13 +50569,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID f781802c-bb82-45a0-aa86-c13b4a4a8168</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CheckConfigurationInfo</_hname>
+					<_hid type="a">GUID 2eee306c-57d4-4af9-8a74-dd261eec92cb</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">bidirectional</direction_>
@@ -50730,17 +50747,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::6:23:47</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::21:15:47</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::6:23:47</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:15:47</_modifiedTime>
 			<_lastID type="a">26</_lastID>
-			<weakCGTime type="a">1.21.2021::6:23:47</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::21:15:47</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -50789,7 +50806,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::6:17:21</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50808,7 +50825,7 @@ _REQ</m_str>
 			<_id type="a">GUID 000f5487-ffa0-4899-99e5-909117ecb789</_id>
 			<_myState type="a">2048</_myState>
 			<_name type="a">iConfigurationService</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::6:26:43</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50839,7 +50856,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::6:29:20</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50870,7 +50887,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::6:56:46</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50901,7 +50918,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:16:21</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50932,7 +50949,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.21.2021::0:15:30</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50963,7 +50980,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.21.2021::0:49:3</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -50980,10 +50997,9 @@ _REQ</m_str>
 		</IDependency>
 		<IInformationFlow type="e">
 			<_id type="a">GUID efa0b143-ddb3-45f9-90f1-ffed40643d7f</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">CANServices_DoorLockingApp</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:3:52</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:0</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -51003,13 +51019,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 3e2e7289-6c9e-4672-9646-fed1c1d1d874</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CalculateCANFrame</_hname>
+					<_hid type="a">GUID dfeb4d73-1be0-412f-8ed3-dc531e28121d</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">bidirectional</direction_>
@@ -51030,10 +51052,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID f3b7e70e-1c2f-4586-b8b5-15fd60fbe5b5</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">DoorLockingApp_ActuatorManager</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:18:54</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:10:32</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -51053,13 +51074,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID d3de7503-7d54-466f-a8c3-68d40490f055</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">UpdateDigitalOutput</_hname>
+					<_hid type="a">GUID d4846990-ac83-4471-87e4-f50c40270fd3</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -51088,9 +51115,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 7615da2d-1648-48a4-bf8f-ce00f30f70b2</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ErrorHandling_DoorLockingApp</_name>
+			<_name type="a">ErrorManager_DoorLocking</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:33:32</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:35</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -51104,13 +51131,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 968f1010-6d06-48c3-9d41-6461d712b306</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">ErrorManager</_hname>
+					<_hid type="a">GUID f3b246e0-84da-4069-9658-f708805e308a</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">bidirectional</direction_>
@@ -51139,7 +51172,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::5:32:47</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_kind type="a">Enumeration</_kind>
@@ -51166,7 +51199,7 @@ _REQ</m_str>
 			<_id type="a">GUID 6bd86cfa-6d0d-41d8-8186-2795660217c3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">sp_ConfigurationInfo</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:32:34</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51245,7 +51278,7 @@ _REQ</m_str>
 			<_id type="a">GUID 08e826e9-8f8f-4590-a1e8-6ebec9148152</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">pp_DoorButton</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:37:25</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51306,7 +51339,7 @@ _REQ</m_str>
 			<_id type="a">GUID 21280ef5-5a02-4a7b-bf38-551e784372f3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">sp_DoorError</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:36:14</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51385,7 +51418,7 @@ _REQ</m_str>
 			<_id type="a">GUID 1f62f241-96e4-4ea3-b34f-d13fce60eb14</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">sp_DoorActuator</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:41:47</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51464,7 +51497,7 @@ _REQ</m_str>
 			<_id type="a">GUID 93660085-1d1a-4033-9d3a-af932fd31226</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">sp_CanDoorServices</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.20.2021::7:41:13</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51543,7 +51576,7 @@ _REQ</m_str>
 			<_id type="a">GUID fe8f9497-2349-4953-9475-5346805ad676</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">sp_DoorPeriodicExecution</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.21.2021::2:26:17</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
@@ -51620,7 +51653,7 @@ _REQ</m_str>
 		</IPort>
 		<IGeneralization type="e">
 			<_id type="a">GUID 9fc6082c-be41-4039-8ed5-1b55472a3a80</_id>
-			<_modifiedTimeWeak type="a">1.21.2021::2:34:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
@@ -51648,17 +51681,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::5:20:44</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:40</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::5:20:44</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:40</_modifiedTime>
 			<_lastID type="a">38</_lastID>
-			<weakCGTime type="a">1.21.2021::5:20:44</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:40</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -52005,9 +52038,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 1bbb4a11-ec69-4176-8c91-9bdab8b39197</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">CANServices_WindowControlApp</_name>
+			<_name type="a">CANServices_WindowControl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:24:34</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:29</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -52039,7 +52072,10 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
@@ -52080,10 +52116,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 75759f3c-aaec-4bd8-a229-5853fdd637a9</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">WindowControlApp_ActuatorManager</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:25:55</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:10:32</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -52115,13 +52150,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID d3de7503-7d54-466f-a8c3-68d40490f055</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">UpdateDigitalOutput</_hname>
+					<_hid type="a">GUID d4846990-ac83-4471-87e4-f50c40270fd3</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -52157,9 +52198,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 1306dcd0-090f-4187-a544-e6c26a5eaf52</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">WindowControlApp_ErrorHandling</_name>
+			<_name type="a">WindowControl_ErrorHandling</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:34:50</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:29</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -52173,7 +52214,10 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
@@ -52194,9 +52238,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID ea033aa1-042e-4d9e-94da-a800b8832a42</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">SafetyManager_WindowControlApp</_name>
+			<_name type="a">AntiPinchFunctionality_WindowControl</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:55:17</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:29</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -52210,13 +52254,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID cbefca29-4042-4f4e-ae5f-62d927e98eff</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">AntiPinchFunctionality</_hname>
+					<_hid type="a">GUID 36353301-4322-4643-b1a0-565146f66d5c</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -52231,9 +52281,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID e50cbc4c-2742-4c45-b926-0146c6a90e0a</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">WindowControlApp_SafetyManager</_name>
+			<_name type="a">WindowControl_AntiPinchFunctionality</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:56:13</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:22:29</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -52247,13 +52297,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 9ea51f95-4301-430f-a606-b6a64449fd84</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">WindowControl</_hname>
+					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID cbefca29-4042-4f4e-ae5f-62d927e98eff</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">AntiPinchFunctionality</_hname>
+					<_hid type="a">GUID 36353301-4322-4643-b1a0-565146f66d5c</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -52952,17 +53008,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::6:22:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::22:55:43</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::6:22:52</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::22:55:43</_modifiedTime>
 			<_lastID type="a">26</_lastID>
-			<weakCGTime type="a">1.21.2021::6:22:52</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::22:55:43</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -53106,10 +53162,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 3271f5b1-c810-4f14-a628-cb6122f1f060</_id>
-			<_myState type="a">2048</_myState>
 			<_name type="a">CANServices_DoorLockingApp</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:12:48</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:11:30</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -53135,13 +53190,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 3e2e7289-6c9e-4672-9646-fed1c1d1d874</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CanTranslation</_hname>
+					<_hid type="a">GUID 89396f8d-94e8-43e4-a258-3631eef65d3d</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 4002a9c3-945a-4d52-aaf1-2ddbc18523fc</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">DoorLocking</_hname>
+					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -53169,10 +53230,9 @@ _REQ</m_str>
 		</IInformationItem>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 6f01931b-ff61-4837-a6de-08cc1e92f5ec</_id>
-			<_myState type="a">2048</_myState>
-			<_name type="a">CRC8_CANServices</_name>
+			<_name type="a">CalculateCrc8Byte_CANServices</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:46:55</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:21:37</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -53186,13 +53246,19 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 3e2e7289-6c9e-4672-9646-fed1c1d1d874</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CalculateCANFrame</_hname>
+					<_hid type="a">GUID dfeb4d73-1be0-412f-8ed3-dc531e28121d</_hid>
 				</IHandle>
 			</end1_>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 7571489d-7590-4a59-aa39-ef2d1e8d2d51</_hid>
+					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+					<_hname type="a">CalculateCrc8Byte</_hname>
+					<_hid type="a">GUID 2cdf8f73-6f8b-4118-b5d4-f24594c388d0</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">bidirectional</direction_>
@@ -53200,9 +53266,9 @@ _REQ</m_str>
 		<IInformationItem type="e">
 			<_id type="a">GUID f440f4b4-51b8-4661-b59e-b3cf9100c1e7</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CalculateCrc8Byte</_name>
+			<_name type="a">GetCrc8Byte</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::7:47:4</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:6:33</_modifiedTime>
 		</IInformationItem>
 		<IType type="e">
 			<_id type="a">GUID c6a6e607-7e0e-44fa-bcea-d66de4144f00</_id>
@@ -54041,7 +54107,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -54050,8 +54116,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.20.2021::7:45:29</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -55026,7 +55092,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -55035,8 +55101,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.20.2021::6:49:11</_modifiedTime>
 			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -56177,7 +56243,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::4:10:37</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -56186,8 +56252,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.21.2021::4:10:37</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">1.21.2021::4:10:37</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -56831,7 +56897,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:39:29</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -56839,8 +56905,8 @@ _REQ</m_str>
 				</IHandle>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.20.2021::23:9:44</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::0:39:29</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -56980,7 +57046,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:47:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -56989,8 +57055,8 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.21.2021::0:47:33</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.21.2021::0:47:33</weakCGTime>
-			<strongCGTime type="a">1.20.2021::22:23:55</strongCGTime>
+			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -57051,7 +57117,7 @@ _REQ</m_str>
 			<IGeneralization type="e">
 				<_id type="a">GUID 755c855b-6cf1-4123-8428-6e77745f4e9f</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_dependsOn type="r">
 					<INObjectHandle type="e">
 						<_hm2Class type="a">IClass</_hm2Class>
@@ -57066,7 +57132,7 @@ _REQ</m_str>
 		<IGeneralization type="e">
 			<_id type="a">GUID eb59a349-a040-4aee-9a38-789ef6cd8473</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -57115,17 +57181,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::5:56:34</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::21:32:13</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::5:56:34</_modifiedTime>
+			<_modifiedTime type="a">1.21.2021::21:32:13</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.21.2021::5:56:34</weakCGTime>
-			<strongCGTime type="a">1.21.2021::0:39:29</strongCGTime>
+			<weakCGTime type="a">1.21.2021::21:32:13</weakCGTime>
+			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -57186,7 +57252,7 @@ _REQ</m_str>
 			<IGeneralization type="e">
 				<_id type="a">GUID b1b4cfb0-cc41-4aaf-b584-7d212d4c9bd7</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_dependsOn type="r">
 					<INObjectHandle type="e">
 						<_hm2Class type="a">IClass</_hm2Class>
@@ -57201,7 +57267,7 @@ _REQ</m_str>
 		<IGeneralization type="e">
 			<_id type="a">GUID e60cecac-c6c2-4691-89d1-066a2d851d13</_id>
 			<_modifiedTimeWeak type="a">1.21.2021::2:29:15</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -57250,7 +57316,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:3:17</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::0:11:8</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -57400,7 +57466,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::0:35:5</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.21.2021::0:46:28</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -57411,10 +57477,6 @@ _REQ</m_str>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">1.21.2021::0:46:28</weakCGTime>
 			<strongCGTime type="a">1.21.2021::0:35:5</strongCGTime>
-			<Ports type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Ports>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
