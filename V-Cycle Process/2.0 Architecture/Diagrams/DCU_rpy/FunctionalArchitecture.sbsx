@@ -12,10 +12,10 @@
 			<_id type="a">GUID 918b4f9e-4064-4298-857f-22da0b1d8ab5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalArchitecture</_name>
-			<_modifiedTimeWeak type="a">1.22.2021::2:58:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.22.2021::4:8:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::7:12:36</_modifiedTime>
 			<_lastID type="a">12</_lastID>
-			<weakCGTime type="a">1.22.2021::2:58:39</weakCGTime>
+			<weakCGTime type="a">2.1.2021::7:4:32</weakCGTime>
 			<strongCGTime type="a">1.22.2021::0:3:36</strongCGTime>
 			<_defaultComposite type="s">GUID ec1315cb-958c-49c3-9cd9-5b1606577074</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -5343,7 +5343,7 @@
 						<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 						<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
 						<_hclass type="a">iCanDoorServices</_hclass>
-						<_hname type="a">GetConfortCmdSignal(ConfortCmdSignal)</_hname>
+						<_hname type="a">GetConfortCmdSignal()</_hname>
 						<_hid type="a">GUID 995788be-3742-4b8a-b904-9cd60df36f95</_hid>
 					</IHandle>
 				</m_pFormalMessage>
@@ -22773,7 +22773,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.22.2021::0:3:57</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22783,9 +22783,9 @@ _REQ</m_str>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.22.2021::0:3:57</_modifiedTime>
+			<_modifiedTime type="a">2.1.2021::7:4:32</_modifiedTime>
 			<_lastID type="a">27</_lastID>
-			<weakCGTime type="a">1.22.2021::0:3:57</weakCGTime>
+			<weakCGTime type="a">2.1.2021::7:4:32</weakCGTime>
 			<strongCGTime type="a">1.22.2021::0:3:36</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -22850,15 +22850,15 @@ _REQ</m_str>
 			<_id type="a">GUID 407701ed-3ffa-4aea-9865-a8010f4ac043</_id>
 			<_myState type="a">2048</_myState>
 			<_rmmServerID type="a">-1</_rmmServerID>
-			<_name type="a">iCAN</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::0:50:10</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::20:40:47</_modifiedTime>
+			<_name type="a">iCANTx</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::7:4:32</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hname type="a">iCAN</_hname>
+					<_hname type="a">iCANTx</_hname>
 					<_hid type="a">GUID ddbbdf23-622b-4164-af6a-7926629533cd</_hid>
 				</INObjectHandle>
 			</_dependsOn>
@@ -23783,8 +23783,8 @@ _REQ</m_str>
 			<_myState type="a">8192</_myState>
 			<_rmmServerID type="a">-1</_rmmServerID>
 			<_name type="a">sp_CanDriver</_name>
-			<_modifiedTimeWeak type="a">1.21.2021::0:50:10</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::20:40:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::7:4:32</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -23813,9 +23813,9 @@ _REQ</m_str>
 						
 					</IRPYRawContainer>
 				</Stereotypes>
-				<_modifiedTimeWeak type="a">1.20.2021::7:46:1</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.20.2021::7:46:1</_modifiedTime>
-				<weakCGTime type="a">1.20.2021::7:46:1</weakCGTime>
+				<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.1.2021::7:4:32</_modifiedTime>
+				<weakCGTime type="a">2.1.2021::7:4:32</weakCGTime>
 				<strongCGTime type="a">1.20.2021::7:45:52</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -23830,7 +23830,7 @@ _REQ</m_str>
 				<_id type="a">GUID 411883aa-3b32-4282-ae8c-b3d96a570f86</_id>
 				<_myState type="a">2048</_myState>
 				<_rmmServerID type="a">-1</_rmmServerID>
-				<_name type="a">iCAN</_name>
+				<_name type="a">iCANTx</_name>
 				<Stereotypes type="c">
 					<IRPYRawContainer type="e">
 						
@@ -23843,14 +23843,14 @@ _REQ</m_str>
 						
 					</IRPYRawContainer>
 				</Stereotypes>
-				<_modifiedTimeWeak type="a">1.20.2021::7:46:1</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.21.2021::20:40:47</_modifiedTime>
+				<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.1.2021::7:4:32</_modifiedTime>
 				<_dependsOn type="r">
 					<INObjectHandle type="e">
 						<_hm2Class type="a">IClass</_hm2Class>
 						<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 						<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-						<_hname type="a">iCAN</_hname>
+						<_hname type="a">iCANTx</_hname>
 						<_hid type="a">GUID ddbbdf23-622b-4164-af6a-7926629533cd</_hid>
 					</INObjectHandle>
 				</_dependsOn>
