@@ -12,10 +12,10 @@
 			<_id type="a">GUID df3264bb-ab17-40e1-8179-d185bb375b54</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PhysicalArchitecture</_name>
-			<_modifiedTimeWeak type="a">2.1.2021::16:14:6</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::18:48:19</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::19:21:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::19:37:47</_modifiedTime>
 			<_lastID type="a">89</_lastID>
-			<weakCGTime type="a">2.1.2021::16:14:6</weakCGTime>
+			<weakCGTime type="a">2.1.2021::19:21:4</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_defaultComposite type="s">GUID 3f0f4a2a-2197-4fb0-ac4a-f4a5df2108ed</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -12695,7 +12695,8 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">1</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
@@ -12969,7 +12970,8 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">1</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">1</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIInheritance type="e">
@@ -27538,6 +27540,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">itsDoorLockingApp_itsDigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -27908,6 +27911,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">itsDigitalInputManager_itsErrorHandling</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -29395,6 +29399,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">itsWindowControlApp_itsDigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -32195,6 +32200,7 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
+					<m_str type="a">itsDigitalInputManager_itsIsrHandler_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -73871,9 +73877,9 @@ Append result to CAN message structure</_body>
 					<_hid type="a">GUID a3fa47ae-6e0e-4f7c-aad5-5dd972abea75</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.20.2021::5:30:28</_modifiedTime>
-			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.20.2021::5:25:6</weakCGTime>
+			<_modifiedTime type="a">2.1.2021::19:23:11</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.1.2021::19:23:11</weakCGTime>
 			<strongCGTime type="a">1.20.2021::5:10:23</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -73882,6 +73888,7 @@ Append result to CAN message structure</_body>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 7ee20f76-eea6-4723-83c9-dd8df8d3384a</value>
+				<value>GUID fe569ac9-a4f0-435c-bd34-ed97ecc5f31c</value>
 			</AggregatesList>
 		</IClass>
 		<IPrimitiveOperation type="e">
@@ -73955,6 +73962,97 @@ Append result to CAN message structure</_body>
 			<_isOrdered type="a">0</_isOrdered>
 			<_argumentDirection type="a">In</_argumentDirection>
 		</IArgument>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID fe569ac9-a4f0-435c-bd34-ed97ecc5f31c</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">abstract</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">NewWindowSwitchEvent</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::19:23:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::19:23:11</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">1</_virtual>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 0c97eb80-1bc2-4cc3-9bda-309dffb4a09c</value>
+				<value>GUID 2d91bc10-5a1e-4d7f-bcf4-dcfb905b2703</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IArgument type="e">
+			<_id type="a">GUID 0c97eb80-1bc2-4cc3-9bda-309dffb4a09c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SwWindowClose</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::19:23:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::19:23:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID 2d91bc10-5a1e-4d7f-bcf4-dcfb905b2703</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SwWindowOpen</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::19:23:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::19:23:11</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
 		<IClass type="e">
 			<_id type="a">GUID e55f9b04-3639-40c1-842b-85573d3653f4</_id>
 			<_myState type="a">8192</_myState>
@@ -73972,7 +74070,7 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::5:34:57</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::18:20:27</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
