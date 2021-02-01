@@ -12,10 +12,10 @@
 			<_id type="a">GUID df3264bb-ab17-40e1-8179-d185bb375b54</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PhysicalArchitecture</_name>
-			<_modifiedTimeWeak type="a">2.1.2021::8:0:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::8:47:38</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::16:14:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:48:19</_modifiedTime>
 			<_lastID type="a">89</_lastID>
-			<weakCGTime type="a">2.1.2021::8:0:20</weakCGTime>
+			<weakCGTime type="a">2.1.2021::16:14:6</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_defaultComposite type="s">GUID 3f0f4a2a-2197-4fb0-ac4a-f4a5df2108ed</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -311,8 +311,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3265,7 +3265,7 @@
 			<m_pParent type="s">GUID 4541af09-2b4e-4c89-8d62-178b9d999e13</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ButtonManager</m_str>
+					<m_str type="a">DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3834,7 +3834,7 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsButtonManager</m_str>
+					<m_str type="a">itsDigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -7969,8 +7969,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::20:37:59</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -9033,6 +9033,9 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIObjectInstance type="e">
 			<_id type="a">GUID b4702440-481c-41f4-8b28-0ddbf6d26536</_id>
@@ -9792,7 +9795,7 @@
 			<m_pParent type="s">GUID c2458be5-9527-43b2-8603-2f7531e1b1d8</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:ButtonManager</m_str>
+					<m_str type="a">:DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -11680,8 +11683,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::7:57:9</_modifiedTime>
-			<_lastModifiedTime type="a">2.1.2021::8:17:31</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -12484,7 +12487,7 @@
 			<m_pParent type="s">GUID 78ef0756-d25c-4a24-bca7-8fb158fa6804</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ButtonManager</m_str>
+					<m_str type="a">DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -12829,7 +12832,8 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">1</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">1</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIClass type="e">
@@ -13160,7 +13164,8 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">1</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">1</_itemValueOfFontPropertiesMapCount>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIInheritance type="e">
@@ -14316,7 +14321,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">264712</m_drawBehavior>
-			<m_transform type="a">0.188857 0 0 0.123886 483.622 681.242 </m_transform>
+			<m_transform type="a">0.188857 0 0 0.180927 483.622 662.476 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -14622,7 +14627,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1061 813 </m_SourcePort>
+			<m_SourcePort type="a">1061 661 </m_SourcePort>
 			<m_TargetPort type="a">-4 801 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
@@ -18725,7 +18730,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">0 8.07194 -5.295 0 1265.51 807.194 </m_transform>
+			<m_transform type="a">0 5.52709 -5.295 0 1265.51 656.051 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -22861,8 +22866,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::20:37:59</_modifiedTime>
-			<_lastModifiedTime type="a">2.1.2021::7:4:45</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -25755,6 +25760,9 @@
 			<m_displayOption type="a">Public</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<CGIPortConnector type="e">
 			<_id type="a">GUID f2781166-0713-4009-9a20-274959b10e45</_id>
@@ -27410,7 +27418,7 @@
 			<m_pParent type="s">GUID b5135eef-9e92-432d-87ac-b40292f56044</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">itsButtonManager:ButtonManager</m_str>
+					<m_str type="a">itsDigitalInputManager:DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -27530,7 +27538,6 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">itsDoorLockingApp_itsButtonManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -27901,7 +27908,6 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">itsButtonManager_itsErrorHandling</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -29389,7 +29395,6 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">itsWindowControlApp_itsButtonManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -32190,7 +32195,6 @@
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
 				<CGIText type="e">
-					<m_str type="a">itsButtonManager_itsIsrHandler_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -32762,7 +32766,7 @@
 			<_name type="a">sqd_WindowManualModeFunctional</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.21.2021::5:9:28</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::5:13:41</_lastModifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -36521,7 +36525,7 @@
 			<m_pParent type="s">GUID f6fd0094-98a1-415b-a718-844f6cf99e94</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:ButtonManager</m_str>
+					<m_str type="a">:DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -42813,8 +42817,8 @@ _REQ</m_str>
 			</_properties>
 			<_name type="a">sqd_DoorManualModeFunctional</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::6:8:47</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::6:8:47</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:37</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::18:18:37</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -42828,7 +42832,7 @@ _REQ</m_str>
 			<m_pICollaboration type="p"><ICollaboration type="e">
 				<_id type="a">GUID a35c69c4-2f31-4b17-8262-7ce294c89a2d</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.21.2021::6:8:21</_modifiedTime>
+				<_modifiedTime type="a">2.1.2021::18:18:37</_modifiedTime>
 				<AggregatesList type="e">
 					<value>GUID 6f4f90f5-9da7-4fba-844c-15320dc90f30</value>
 					<value>GUID f791ab57-c936-44e1-841c-4a81c8ffb369</value>
@@ -43094,9 +43098,9 @@ _REQ</m_str>
 			</IMessage>
 			<IMessage type="e">
 				<_id type="a">GUID 536efb55-08f5-401d-8368-67726d0b06eb</_id>
-				<_name type="a">NewDoorLockEvent</_name>
+				<_name type="a">NewDoorLockButtonEvent</_name>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.21.2021::5:57:38</_modifiedTime>
+				<_modifiedTime type="a">2.1.2021::18:18:37</_modifiedTime>
 				<m_szSequence type="a">3.</m_szSequence>
 				<m_szActualArgs type="a">DoorLockButton</m_szActualArgs>
 				<m_pCommunicationConnection type="r">
@@ -43861,7 +43865,7 @@ _REQ</m_str>
 			<m_pParent type="s">GUID e255983d-b60d-4f60-a20a-12fc1658756f</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:ButtonManager</m_str>
+					<m_str type="a">:DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -43998,7 +44002,7 @@ _REQ</m_str>
 			<m_pParent type="s"></m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">NewDoorLockEvent(DoorLockButton)</m_str>
+					<m_str type="a">NewDoorLockButtonEvent(DoorLockButton)</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -49653,15 +49657,15 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::2:56:56</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<weakCGTime type="a">2.1.2021::18:18:4</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -49681,9 +49685,9 @@ _REQ</m_str>
 		<IPart type="e">
 			<_id type="a">GUID 5d3f8052-ff07-4aea-aa18-a265983c0eca</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsButtonManager</_name>
-			<_modifiedTimeWeak type="a">1.19.2021::5:17:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::5:17:11</_modifiedTime>
+			<_name type="a">itsDigitalInputManager</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -49753,7 +49757,7 @@ _REQ</m_str>
 		<IObjectLink type="e">
 			<_id type="a">GUID 056d07bd-31ea-4549-86b2-ffa3f45b4071</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsButtonManager_itsErrorHandling</_name>
+			<_name type="a">itsDigitalInputManager_itsErrorHandling</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -49767,8 +49771,8 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::20:45:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.20.2021::20:45:3</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_toLink type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
@@ -49853,7 +49857,7 @@ _REQ</m_str>
 		<IObjectLink type="e">
 			<_id type="a">GUID 9769085c-6a3d-464e-b904-19da20113c1e</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsButtonManager_itsIsrHandler_1</_name>
+			<_name type="a">itsDigitalInputManager_itsIsrHandler_1</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -49867,8 +49871,8 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::2:56:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::2:56:56</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_toLink type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
@@ -49917,15 +49921,15 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::20:38:1</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::2:56:0</_modifiedTime>
-			<weakCGTime type="a">1.21.2021::20:38:1</weakCGTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
+			<weakCGTime type="a">2.1.2021::18:18:4</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -50239,7 +50243,7 @@ _REQ</m_str>
 		<IObjectLink type="e">
 			<_id type="a">GUID e32b0d74-c99c-4404-b446-7b98f432ca19</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsDoorLockingApp_itsButtonManager</_name>
+			<_name type="a">itsDoorLockingApp_itsDigitalInputManager</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -50253,8 +50257,8 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::20:43:1</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.20.2021::20:43:1</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_toLink type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
@@ -50589,7 +50593,7 @@ _REQ</m_str>
 		<IObjectLink type="e">
 			<_id type="a">GUID 0102017b-afec-4969-ac43-a3b4d70dae36</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsWindowControlApp_itsButtonManager</_name>
+			<_name type="a">itsWindowControlApp_itsDigitalInputManager</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -50603,8 +50607,8 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::20:56:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.20.2021::20:56:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_toLink type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
@@ -51154,7 +51158,7 @@ _REQ</m_str>
 		<IClass type="e">
 			<_id type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ButtonManager</_name>
+			<_name type="a">DigitalInputManager</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -51168,17 +51172,17 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.21.2021::21:32:12</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::21:32:12</_modifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_lastID type="a">19</_lastID>
-			<weakCGTime type="a">1.21.2021::21:32:12</weakCGTime>
-			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
+			<weakCGTime type="a">2.1.2021::18:18:4</weakCGTime>
+			<strongCGTime type="a">2.1.2021::18:18:4</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -51495,9 +51499,9 @@ _REQ</m_str>
 		<IInformationFlow type="e">
 			<_id type="a">GUID 64db481c-3eaf-4608-905b-614f4a82768e</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ButtonManager_WindowControlApp_0</_name>
+			<_name type="a">DigitalInputManager_WindowControlApp</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.19.2021::6:45:22</_modifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<Conveyed type="c">
 				<IRPYRawContainer type="e">
 					
@@ -53403,7 +53407,7 @@ _REQ</m_str>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::2:13:29</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID c3d5535c-1c90-4f23-998c-5a73e3ccaa72</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -53435,7 +53439,7 @@ _REQ</m_str>
 			<IState type="e">
 				<_id type="a">GUID da4c9ddb-7fa4-42e0-a03d-3d4da3d0b63e</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -55862,7 +55866,7 @@ _REQ</m_str>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">7</_defNumber>
 				<_version type="a">2.1.2021::2:48:36</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID d701ee18-7cbe-4fd9-a3c6-0821b16dfe7c</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -55925,7 +55929,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 40d9b0b1-a042-4bf3-bfe3-e9b9f8f2bf38</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -55958,7 +55962,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 5be946f9-5424-489e-97a0-c3b3016bd1d4</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -56001,7 +56005,7 @@ _REQ</m_str>
 			<IGuard type="e">
 				<_id type="a">GUID 22f1bd14-67d5-4139-9951-bdf141d43123</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">PINS == 00</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -56042,7 +56046,7 @@ _REQ</m_str>
 			<IGuard type="e">
 				<_id type="a">GUID db4aec1c-9114-4d27-94e6-2ea049e9417e</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">PINS == 01</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -56083,7 +56087,7 @@ _REQ</m_str>
 			<IGuard type="e">
 				<_id type="a">GUID 86afcbe4-086f-4416-8c31-660b8a1103f5</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">PINS == 10</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -56124,7 +56128,7 @@ _REQ</m_str>
 			<IGuard type="e">
 				<_id type="a">GUID 8d589187-ceef-4208-8709-fea6aa43aca5</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">PINS == 11</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -56155,7 +56159,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 141d9066-7adb-4c62-91a1-dbe647b91ad8</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -56188,7 +56192,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 6c01723b-1571-45c8-8d43-c107d62158af</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -56221,7 +56225,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 21d00ce1-26e4-4ccb-9634-9b3568f20cf4</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -56254,7 +56258,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 4f71dd5c-cc87-4b17-9d4b-b9f88b6e4c5a</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -57440,7 +57444,7 @@ _REQ</m_str>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">232 765 </m_SourcePort>
+				<m_SourcePort type="a">274 765 </m_SourcePort>
 				<m_TargetPort type="a">601 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -57503,7 +57507,7 @@ _REQ</m_str>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">526 1049 </m_SourcePort>
+				<m_SourcePort type="a">526 1027 </m_SourcePort>
 				<m_TargetPort type="a">547 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -57566,7 +57570,7 @@ _REQ</m_str>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">821 765 </m_SourcePort>
+				<m_SourcePort type="a">793 765 </m_SourcePort>
 				<m_TargetPort type="a">479 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -57629,7 +57633,7 @@ _REQ</m_str>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">1073 525 </m_SourcePort>
+				<m_SourcePort type="a">1059 525 </m_SourcePort>
 				<m_TargetPort type="a">388 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -60247,16 +60251,16 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">2.1.2021::8:2:39</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::16:14:6</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">2.1.2021::8:2:39</_modifiedTime>
+			<_modifiedTime type="a">2.1.2021::16:14:6</_modifiedTime>
 			<_lastID type="a">74</_lastID>
-			<weakCGTime type="a">2.1.2021::8:2:39</weakCGTime>
+			<weakCGTime type="a">2.1.2021::16:14:6</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -61318,8 +61322,8 @@ _REQ</m_str>
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::8:26:31</_modifiedTime>
-			<_lastModifiedTime type="a">2.1.2021::8:26:31</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::16:14:6</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::16:14:6</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -67177,7 +67181,7 @@ _REQ</m_str>
 			<m_pParent type="s">GUID 90648e51-4b3a-4d19-b846-a0609770f081</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">RearWindowLock:int</m_str>
+					<m_str type="a">RearWindowLock:RearWindowLockSignal</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -70820,7 +70824,7 @@ _REQ</m_str>
 			<IGeneralization type="e">
 				<_id type="a">GUID 2ba6f544-7a91-4c3d-a99a-8803c49086b1</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_dependsOn type="r">
 					<INObjectHandle type="e">
 						<_hm2Class type="a">IClass</_hm2Class>
@@ -70880,7 +70884,7 @@ _REQ</m_str>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">3</_defNumber>
 				<_version type="a">1.31.2021::23:1:33</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID cb68f970-e1ec-4337-bcc5-b9609a54d6f4</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -71098,7 +71102,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID 37e05d75-98a0-4533-b39d-5af392e9b1b8</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -71131,7 +71135,7 @@ _REQ</m_str>
 			<ILabel type="e">
 				<_id type="a">GUID e3420472-423c-440d-be42-594ea3f27849</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -71887,7 +71891,7 @@ Set Window CAN variables to default value</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">7</_defNumber>
 				<_version type="a">1.31.2021::23:29:40</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID dda077e1-99b9-4f95-a464-420dcc91f668</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -71964,7 +71968,7 @@ Set Window CAN variables to default value</_body>
 			<ILabel type="e">
 				<_id type="a">GUID efd6440a-21b2-4cd9-bc1f-ffc1c2732632</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -71997,7 +72001,7 @@ Set Window CAN variables to default value</_body>
 			<ILabel type="e">
 				<_id type="a">GUID bc1b8947-1c93-4879-986b-9dbec5bb52bc</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -72030,7 +72034,7 @@ Set Window CAN variables to default value</_body>
 			<ILabel type="e">
 				<_id type="a">GUID b4c895ee-c6be-4147-883a-bbc493d59efe</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -72063,7 +72067,7 @@ Set Window CAN variables to default value</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 3b3209eb-7f49-41b6-a3ca-b24fc8a00b52</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -72096,7 +72100,7 @@ Set Window CAN variables to default value</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 55a032b6-c958-411e-a15a-c389cc24ee9d</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -72121,7 +72125,7 @@ Set Window CAN variables to default value</_body>
 					<_id type="a">GUID 446a0fb4-9169-4e11-8548-1b8d95ec5584</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Load Can message structure</_body>
 				</IAction>
 				</_entryAction>
@@ -72139,7 +72143,7 @@ Set Window CAN variables to default value</_body>
 					<_id type="a">GUID fdfea790-0fc3-443d-b791-9547dedc7d92</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Update Message counter</_body>
 				</IAction>
 				</_entryAction>
@@ -72176,7 +72180,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID b3b5ca45-9ac2-4537-9639-54113424d971</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Transmit CAN message</_body>
 				</IAction>
 				</_entryAction>
@@ -73551,14 +73555,12 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">2.1.2021::7:47:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::7:47:39</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::16:14:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::16:14:6</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+					<_hid type="a">GUID 5c24437d-a694-4a72-b42e-10a2f3f7f09a</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -73596,7 +73598,7 @@ Append result to CAN message structure</_body>
 		<IGeneralization type="e">
 			<_id type="a">GUID 0c6034b1-577d-48e2-9c99-8d73d6155279</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -73977,9 +73979,9 @@ Append result to CAN message structure</_body>
 					<_hid type="a">GUID a3fa47ae-6e0e-4f7c-aad5-5dd972abea75</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.20.2021::5:34:57</_modifiedTime>
-			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">1.20.2021::5:34:57</weakCGTime>
+			<_modifiedTime type="a">2.1.2021::18:20:27</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.1.2021::18:20:27</weakCGTime>
 			<strongCGTime type="a">1.20.2021::5:27:31</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -73988,6 +73990,7 @@ Append result to CAN message structure</_body>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 5750a1b8-5b77-4f81-af5a-5e7a9735eb02</value>
+				<value>GUID 369ec699-e1fc-4298-a61b-1aeea1ef5caa</value>
 			</AggregatesList>
 		</IClass>
 		<IPrimitiveOperation type="e">
@@ -74023,9 +74026,9 @@ Append result to CAN message structure</_body>
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">NewDoorLockEvent</_name>
-			<_modifiedTimeWeak type="a">1.20.2021::5:34:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.20.2021::5:34:57</_modifiedTime>
+			<_name type="a">NewDoorLockButtonEvent</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:37</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">1</_virtual>
 			<_returnType type="r">
@@ -74056,6 +74059,97 @@ Append result to CAN message structure</_body>
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hid type="a">GUID a073af23-d05c-45ef-88db-45e522430601</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 369ec699-e1fc-4298-a61b-1aeea1ef5caa</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">abstract</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">NewDoorLockSwitchEvent</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::18:20:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:20:27</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">1</_virtual>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 52825edd-878c-461c-9a34-e8a90913f690</value>
+				<value>GUID d6bbeab6-803e-4717-b725-8f37bd6cd10a</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IArgument type="e">
+			<_id type="a">GUID 52825edd-878c-461c-9a34-e8a90913f690</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UnlockSwitch</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::18:20:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:20:19</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID d6bbeab6-803e-4717-b725-8f37bd6cd10a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">LockSwitch</_name>
+			<_modifiedTimeWeak type="a">2.1.2021::18:20:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:20:26</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -74501,7 +74595,7 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::6:25:6</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::8:37:56</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -74595,7 +74689,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::2:36:3</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID b2b74a04-472b-42d2-b0ca-3173dda85a0a</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -74627,7 +74721,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID 74916836-592a-4e17-a8b7-93cd85eaaf01</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -75056,7 +75150,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:37:1</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 55ae5393-87ae-4ab5-9a1e-2553b8841f78</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -75067,7 +75161,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID 9dd4fe93-f97d-4352-9082-11005423914d</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -75453,7 +75547,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:39:14</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 25195b51-4ea7-49c4-bb2a-70de1d060588</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -75485,7 +75579,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID e4eff4fb-e45f-41e2-aaff-3a6c98c7f407</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -75871,7 +75965,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:36:36</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 7d8d2d4a-fd11-43d2-aa26-f1c2037bee1b</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -75882,7 +75976,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID 99c9075d-edf4-455f-964f-0a42416f8841</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -76268,7 +76362,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:38:38</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID f03ab32b-f790-434c-9aff-7c132ab20793</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -76300,7 +76394,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID acde2de4-0cd1-410b-a071-961bfdf1438e</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -76686,7 +76780,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:35:26</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 20513e8e-a9fc-4846-a3eb-9facc260ad86</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -76697,7 +76791,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID bf9cdc66-e4e7-4c2e-8894-e0467e59e3a2</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -77083,7 +77177,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:37:42</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID a4ccc239-aca3-41c5-9093-749347561bb2</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -77115,7 +77209,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID cb2d3847-d52a-4b1e-af5f-c4d4ff239e51</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -77501,7 +77595,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:35:56</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 13777d87-8481-4e90-8cdd-da6c41d7b6ef</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -77533,7 +77627,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID f2ce0e99-0e87-427b-900b-0856e3d4b1c5</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -77919,7 +78013,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">0</_defNumber>
 				<_version type="a">2.1.2021::1:38:3</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID a22b23a6-8e15-446b-9080-f9b7b7fbf237</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -77951,7 +78045,7 @@ Append result to CAN message structure</_body>
 			<IState type="e">
 				<_id type="a">GUID 975a0a9a-747a-4159-af37-792b6df1ff56</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_parent type="s"></_parent>
 				<_defaultTrans type="s"></_defaultTrans>
 			</IState>
@@ -78280,7 +78374,7 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::7:5:56</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::7:29:34</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -78380,7 +78474,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">4</_defNumber>
 				<_version type="a">2.1.2021::0:56:31</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 8682d387-da5b-4efb-8f67-893ad355c9fd</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -78478,7 +78572,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 11fda8bb-5d86-4a97-8d01-835fc2a82693</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -79454,7 +79548,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">4</_defNumber>
 				<_version type="a">2.1.2021::1:13:31</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID d6a7a8ba-80b5-4273-9286-f55186e4089a</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -80368,7 +80462,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">4</_defNumber>
 				<_version type="a">2.1.2021::0:53:53</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 685a6dc3-1a24-46a9-9aad-5bcb553488e2</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -80466,7 +80560,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 0c753b05-3640-40aa-b95e-6d124745f25c</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -81442,7 +81536,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">4</_defNumber>
 				<_version type="a">2.1.2021::1:13:11</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 246ce364-2bbd-4a99-bf9d-ede4fde2c00e</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -82360,7 +82454,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">3</_defNumber>
 				<_version type="a">2.1.2021::0:41:36</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID b7d84a2c-171e-44f1-8498-a976006ce68a</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -82391,7 +82485,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 718da221-34b2-4a92-9eaf-d720788dd0c2</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -82424,7 +82518,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID ba37b8a4-227f-4808-b4ee-1e815040d7e6</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -82457,7 +82551,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID d95305ac-c4bb-4f01-b7bd-c5047bcf1d74</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -82503,7 +82597,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID 74a0e05b-538f-4c1a-ab70-3aa752ecd2e4</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">return ConfortCmd value</_body>
 				</IAction>
 				</_entryAction>
@@ -83340,7 +83434,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">4</_defNumber>
 				<_version type="a">2.1.2021::1:11:40</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 8eb2aabe-966e-4cb0-b0b2-c246275e873e</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -83438,7 +83532,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID e07a6403-8865-4b45-966b-c554cd085664</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -84414,7 +84508,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">5</_defNumber>
 				<_version type="a">2.1.2021::0:58:53</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 87d75d65-cf2f-4ba1-92de-3ce7fb42a8a7</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -84533,7 +84627,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 9dae3135-bdd8-46a6-90b1-2684035243d1</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -86062,7 +86156,7 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2021::7:22:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::8:7:37</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -86159,12 +86253,8 @@ Append result to CAN message structure</_body>
 				</_itsStateChart>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">3</_defNumber>
-				<Transitions type="c">
-					<IRPYRawContainer type="e">
-					</IRPYRawContainer>
-				</Transitions>
 				<_version type="a">2.1.2021::2:7:17</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 16a720d2-b902-43c7-80ab-630c7ef07457</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -87308,7 +87398,7 @@ Append result to CAN message structure</_body>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::7:52:20</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -87405,7 +87495,7 @@ Append result to CAN message structure</_body>
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">38</_defNumber>
 				<_version type="a">2.1.2021::0:32:49</_version>
-				<_baseVersion type="a">12.31.1969::18:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID d1bd522f-96bd-4819-a841-13a8645f01fa</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -87663,7 +87753,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 33581cfc-7a45-4a9c-af4a-66c732747766</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -87696,7 +87786,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 226d781e-7953-44fe-9aa4-73f85297aa03</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -87739,7 +87829,7 @@ Append result to CAN message structure</_body>
 			<IGuard type="e">
 				<_id type="a">GUID d80ca1ea-4316-40c9-bc9d-0b240cb5e045</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">MessageID == BCM_5</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -87770,7 +87860,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 764b46e1-5d35-4b96-b983-ec75b608a1f2</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -87895,7 +87985,7 @@ Append result to CAN message structure</_body>
 			<IGuard type="e">
 				<_id type="a">GUID 2185e10e-a7af-4d2e-a7bb-f4c6e7482c5d</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">MessageID == BCM_2</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -87926,7 +88016,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID bb4a1b99-c2ec-4142-9c7d-dd12679b6734</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88000,7 +88090,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 22e49f0b-4ab3-4400-b264-b2a4f94c1f9b</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88043,7 +88133,7 @@ Append result to CAN message structure</_body>
 			<IGuard type="e">
 				<_id type="a">GUID 6e5273da-e325-411b-8826-ad18bafee2e0</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">Valid CMAC and MC</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -88074,7 +88164,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 5948aa86-c942-402a-8b29-27ea2fe6230d</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88117,7 +88207,7 @@ Append result to CAN message structure</_body>
 			<IGuard type="e">
 				<_id type="a">GUID b522da83-c7a8-42d9-9abd-a5a579f9d9e4</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">MessageID == BRAKE_2</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -88148,7 +88238,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID dd3eb4bc-d73c-477e-8d3e-7c9d96537259</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88191,7 +88281,7 @@ Append result to CAN message structure</_body>
 			<IGuard type="e">
 				<_id type="a">GUID 7c3e27ba-b52f-4ef5-b987-43f1e44da136</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">Invalid CRC or invalid MC</_body>
 			</IGuard>
 			<ITransition type="e">
@@ -88222,7 +88312,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID a0eeb32f-6b95-4da5-bf97-3e8ff6c553f8</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88255,7 +88345,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID 39f09c36-12ce-443b-9251-42de9d49b3d5</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88329,7 +88419,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID dc59a10d-b49c-49a7-aafc-17b455710b5b</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88362,7 +88452,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID fa7b91e0-751f-4ab8-85a0-b279cb4e905b</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88395,7 +88485,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID c09fc6f3-a223-4a72-985c-da780563fa51</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88428,7 +88518,7 @@ Append result to CAN message structure</_body>
 			<ILabel type="e">
 				<_id type="a">GUID e925b4dc-09b7-43f4-93d7-63f474faf87a</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -88595,7 +88685,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID 0138fc7b-6aaf-4bc7-882f-d0a194c4bafb</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Update SysPwrMode</_body>
 				</IAction>
 				</_entryAction>
@@ -88737,7 +88827,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID 204e70fd-edf3-4253-af72-c92747bdc98b</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Verify BRAKE_2_CRC and MC</_body>
 				</IAction>
 				</_entryAction>
@@ -88777,7 +88867,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID c4f58005-c688-4c43-a52a-71d453f9f82b</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Update vehicle speed</_body>
 				</IAction>
 				</_entryAction>
@@ -88857,7 +88947,7 @@ Append result to CAN message structure</_body>
 					<_id type="a">GUID ca058bcb-0a3b-479e-b618-c279afab5c85</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">Update WindowPos, LockingReq, WindowOp, RearWindowLock, DoorLockSts, WindowControl</_body>
 				</IAction>
 				</_entryAction>
@@ -89730,7 +89820,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">232 765 </m_SourcePort>
+				<m_SourcePort type="a">274 765 </m_SourcePort>
 				<m_TargetPort type="a">519 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -89953,7 +90043,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">526 1049 </m_SourcePort>
+				<m_SourcePort type="a">526 1027 </m_SourcePort>
 				<m_TargetPort type="a">588 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -90056,7 +90146,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">-6 525 </m_SourcePort>
+				<m_SourcePort type="a">8 525 </m_SourcePort>
 				<m_TargetPort type="a">19 2 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -90209,7 +90299,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">232 765 </m_SourcePort>
+				<m_SourcePort type="a">274 765 </m_SourcePort>
 				<m_TargetPort type="a">575 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -90411,7 +90501,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">-6 525 </m_SourcePort>
+				<m_SourcePort type="a">8 525 </m_SourcePort>
 				<m_TargetPort type="a">15 1 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -90631,7 +90721,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">821 765 </m_SourcePort>
+				<m_SourcePort type="a">793 765 </m_SourcePort>
 				<m_TargetPort type="a">519 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -90854,7 +90944,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">526 1049 </m_SourcePort>
+				<m_SourcePort type="a">526 1027 </m_SourcePort>
 				<m_TargetPort type="a">576 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -91056,7 +91146,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">-6 525 </m_SourcePort>
+				<m_SourcePort type="a">8 525 </m_SourcePort>
 				<m_TargetPort type="a">18 1 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -91176,7 +91266,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">1073 525 </m_SourcePort>
+				<m_SourcePort type="a">1059 525 </m_SourcePort>
 				<m_TargetPort type="a">507 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -91399,7 +91489,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">821 765 </m_SourcePort>
+				<m_SourcePort type="a">793 765 </m_SourcePort>
 				<m_TargetPort type="a">207 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -91597,7 +91687,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">232 285 </m_SourcePort>
+				<m_SourcePort type="a">274 285 </m_SourcePort>
 				<m_TargetPort type="a">19 3 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">
@@ -91746,7 +91836,7 @@ Append result to CAN message structure</_body>
 				<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 				<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 				<m_line_style type="a">1</m_line_style>
-				<m_SourcePort type="a">821 765 </m_SourcePort>
+				<m_SourcePort type="a">793 765 </m_SourcePort>
 				<m_TargetPort type="a">668 -17 </m_TargetPort>
 				<m_pInheritsFrom type="r">
 					<IHandle type="e">

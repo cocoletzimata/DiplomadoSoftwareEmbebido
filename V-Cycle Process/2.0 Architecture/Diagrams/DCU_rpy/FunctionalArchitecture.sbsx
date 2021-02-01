@@ -12,10 +12,10 @@
 			<_id type="a">GUID 918b4f9e-4064-4298-857f-22da0b1d8ab5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalArchitecture</_name>
-			<_modifiedTimeWeak type="a">2.1.2021::7:4:32</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.1.2021::7:12:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:48:18</_modifiedTime>
 			<_lastID type="a">12</_lastID>
-			<weakCGTime type="a">2.1.2021::7:4:32</weakCGTime>
+			<weakCGTime type="a">2.1.2021::18:18:4</weakCGTime>
 			<strongCGTime type="a">1.22.2021::0:3:36</strongCGTime>
 			<_defaultComposite type="s">GUID ec1315cb-958c-49c3-9cd9-5b1606577074</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -575,7 +575,7 @@
 					<_hm2Class type="a">IInformationFlow</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hclass type="a">ButtonManager</_hclass>
+					<_hclass type="a">DigitalInputManager</_hclass>
 					<_hname type="a">ButtonManager_DoorLockingApp</_hname>
 					<_hid type="a">GUID e3d2590c-0912-480c-b2ef-1bea02627c4a</_hid>
 				</IHandle>
@@ -677,7 +677,7 @@
 					<_hm2Class type="a">IInformationFlow</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hclass type="a">ButtonManager</_hclass>
+					<_hclass type="a">DigitalInputManager</_hclass>
 					<_hname type="a">ButtonManager_WindowControlApp</_hname>
 					<_hid type="a">GUID c9e76975-6fca-4d26-a7a9-0ceea1e69b50</_hid>
 				</IHandle>
@@ -1285,7 +1285,7 @@
 					<_hm2Class type="a">IInformationFlow</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hclass type="a">ButtonManager</_hclass>
+					<_hclass type="a">DigitalInputManager</_hclass>
 					<_hname type="a">ButtonManager_ErrorHandling</_hname>
 					<_hid type="a">GUID b7a4ff7f-0604-4c98-a5e3-321e1c4084f4</_hid>
 				</IHandle>
@@ -18448,7 +18448,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.22.2021::0:3:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -18458,9 +18458,9 @@ _REQ</m_str>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.21.2021::23:26:31</_modifiedTime>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_lastID type="a">20</_lastID>
-			<weakCGTime type="a">1.22.2021::0:3:36</weakCGTime>
+			<weakCGTime type="a">2.1.2021::18:18:4</weakCGTime>
 			<strongCGTime type="a">1.22.2021::0:3:36</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -18716,7 +18716,7 @@ _REQ</m_str>
 		<IDependency type="e">
 			<_id type="a">GUID f504a6fb-d71e-49f3-94ec-ac676c773bb8</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">ButtonManager</_name>
+			<_name type="a">DigitalInputManager</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -18730,14 +18730,14 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.22.2021::0:3:36</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::23:26:31</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::18:18:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::18:18:4</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hname type="a">ButtonManager</_hname>
+					<_hname type="a">DigitalInputManager</_hname>
 					<_hid type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_hid>
 				</INObjectHandle>
 			</_dependsOn>
