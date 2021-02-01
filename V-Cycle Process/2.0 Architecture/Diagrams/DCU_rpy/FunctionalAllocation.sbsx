@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
-	<CODE-PAGE>65001</CODE-PAGE>
+	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
 	<lang>C++</lang>
 	<BuildNo>202006101734</BuildNo>
@@ -12,10 +12,10 @@
 			<_id type="a">GUID 12a91eca-f58b-4284-a5db-4da99ee6366b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalAllocation</_name>
-			<_modifiedTimeWeak type="a">1.22.2021::1:24:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.22.2021::1:26:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.31.2021::23:43:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::4:27:11</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">1.22.2021::1:24:54</weakCGTime>
+			<weakCGTime type="a">1.31.2021::23:43:13</weakCGTime>
 			<strongCGTime type="a">1.21.2021::23:17:40</strongCGTime>
 			<_defaultComposite type="s">GUID c83ef556-64c9-4fcb-997c-e21ca77cbbfb</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -312,8 +312,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::23:28:58</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::23:28:58</_lastModifiedTime>
+			<_modifiedTime type="a">1.31.2021::23:43:13</_modifiedTime>
+			<_lastModifiedTime type="a">1.31.2021::23:43:13</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3024,14 +3024,6 @@
 					
 				</IRPYRawContainer>
 			</DataColumns>
-			<TableFromElementTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</TableFromElementTypes>
-			<TableToElementTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</TableToElementTypes>
 			<AggregatesList type="e">
 				<value>GUID 640922c8-69e0-4169-9023-7b6e5a55b09f</value>
 			</AggregatesList>
@@ -3041,7 +3033,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">ViewsToSearch</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -3058,7 +3050,7 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID cc479b45-9656-44f4-aabb-2b6d8533a830</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_value type="a">All</_value>
 		</ILiteralSpecification>
 		<ITableInstance type="e">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
-	<CODE-PAGE>65001</CODE-PAGE>
+	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
 	<lang>C++</lang>
 	<BuildNo>202006101734</BuildNo>
@@ -12,10 +12,10 @@
 			<_id type="a">GUID 918b4f9e-4064-4298-857f-22da0b1d8ab5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalArchitecture</_name>
-			<_modifiedTimeWeak type="a">1.22.2021::2:58:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.22.2021::4:8:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.31.2021::23:43:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.1.2021::4:27:10</_modifiedTime>
 			<_lastID type="a">12</_lastID>
-			<weakCGTime type="a">1.22.2021::2:58:39</weakCGTime>
+			<weakCGTime type="a">1.31.2021::23:43:13</weakCGTime>
 			<strongCGTime type="a">1.22.2021::0:3:36</strongCGTime>
 			<_defaultComposite type="s">GUID ec1315cb-958c-49c3-9cd9-5b1606577074</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -377,8 +377,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.22.2021::1:51:52</_modifiedTime>
-			<_lastModifiedTime type="a">1.22.2021::1:51:52</_lastModifiedTime>
+			<_modifiedTime type="a">1.31.2021::23:43:13</_modifiedTime>
+			<_lastModifiedTime type="a">1.31.2021::23:43:13</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
