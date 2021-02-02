@@ -12,10 +12,10 @@
 			<_id type="a">GUID df3264bb-ab17-40e1-8179-d185bb375b54</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PhysicalArchitecture</_name>
-			<_modifiedTimeWeak type="a">2.2.2021::5:59:30</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.2.2021::6:11:52</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.2.2021::16:9:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.2.2021::17:53:44</_modifiedTime>
 			<_lastID type="a">88</_lastID>
-			<weakCGTime type="a">2.2.2021::5:59:30</weakCGTime>
+			<weakCGTime type="a">2.2.2021::16:9:58</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_defaultComposite type="s">GUID 3f0f4a2a-2197-4fb0-ac4a-f4a5df2108ed</_defaultComposite>
 			<_eventsBaseID type="a">23001</_eventsBaseID>
@@ -527,7 +527,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hname type="a">Software</_hname>
 					<_hid type="a">GUID 8163bd0f-4472-457c-a7ca-bab3a2693056</_hid>
@@ -995,7 +995,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsAPP_Layer</_hname>
@@ -1208,7 +1208,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsHW_Layer</_hname>
@@ -1420,7 +1420,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsMCU_Layer</_hname>
@@ -7198,7 +7198,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsOS_Layer_1</_hname>
@@ -8192,7 +8192,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hname type="a">Software</_hname>
 					<_hid type="a">GUID 8163bd0f-4472-457c-a7ca-bab3a2693056</_hid>
@@ -8333,7 +8333,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsAPP_Layer</_hname>
@@ -8485,7 +8485,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsHW_Layer</_hname>
@@ -8636,7 +8636,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsMCU_Layer</_hname>
@@ -10926,7 +10926,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsOS_Layer_1</_hname>
@@ -11671,8 +11671,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.2.2021::5:36:47</_modifiedTime>
-			<_lastModifiedTime type="a">2.2.2021::5:36:47</_lastModifiedTime>
+			<_modifiedTime type="a">2.2.2021::17:24:49</_modifiedTime>
+			<_lastModifiedTime type="a">2.2.2021::17:24:49</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -12012,7 +12012,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">264712</m_drawBehavior>
-			<m_transform type="a">0.123702 0 0 0.123886 311.753 298.242 </m_transform>
+			<m_transform type="a">0.23985 0 0 0.196079 193.521 218.491 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -12030,10 +12030,11 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+			<frameset type="a">&lt;frameset rows=43%25,57%25&gt;
 &lt;frame name=AttributeListCompartment&gt;
 &lt;frame name=OperationListCompartment&gt;</frameset>
 			<Attrs type="c">
@@ -12488,7 +12489,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.101039 0 0 0.123886 428.798 920.242 </m_transform>
+			<m_transform type="a">0.101039 0 0 0.123886 501.798 920.242 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -12901,7 +12902,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">264712</m_drawBehavior>
-			<m_transform type="a">0.385269 0 0 0.123886 819.229 880.242 </m_transform>
+			<m_transform type="a">0.385269 0 0 0.139929 819.229 874.964 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -13014,7 +13015,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">527 886 </m_SourcePort>
-			<m_TargetPort type="a">-1 942 </m_TargetPort>
+			<m_TargetPort type="a">-1 944 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -13097,7 +13098,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">264712</m_drawBehavior>
-			<m_transform type="a">0.385269 0 0 0.101604 819.229 1084.57 </m_transform>
+			<m_transform type="a">0.385269 0 0 0.139928 819.229 1053.96 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -13208,7 +13209,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">-3 857 </m_SourcePort>
-			<m_TargetPort type="a">1061 851 </m_TargetPort>
+			<m_TargetPort type="a">1061 708 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -13267,7 +13268,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">1061 1298 </m_SourcePort>
-			<m_TargetPort type="a">-1 811 </m_TargetPort>
+			<m_TargetPort type="a">-1 679 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -14552,7 +14553,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 567 1261  1034 1261  </m_arrow>
+			<m_arrow type="a">2 568 1291  1035 1291  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
@@ -14730,7 +14731,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">-1 1292 </m_SourcePort>
-			<m_TargetPort type="a">1061 482 </m_TargetPort>
+			<m_TargetPort type="a">1061 479 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -16757,7 +16758,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">0 8.07194 -8.08397 0 1374.27 371.309 </m_transform>
+			<m_transform type="a">0 5.1 -4.16929 0 1222.57 466.746 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -20453,7 +20454,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">172 1451 </m_SourcePort>
+			<m_SourcePort type="a">173 1451 </m_SourcePort>
 			<m_TargetPort type="a">860 329 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
@@ -21646,7 +21647,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">-8.08394 0 -0 -8.07194 677.099 1765.76 </m_transform>
+			<m_transform type="a">-4.16928 0 -0 -5.1 551.391 1649.87 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -22627,7 +22628,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hname type="a">Software</_hname>
 					<_hid type="a">GUID 8163bd0f-4472-457c-a7ca-bab3a2693056</_hid>
@@ -22746,7 +22747,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsAPP_Layer</_hname>
@@ -23125,7 +23126,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsHW_Layer</_hname>
@@ -29863,7 +29864,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IPart</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsOS_Layer_1</_hname>
@@ -50654,7 +50655,7 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">2.2.2021::6:12:41</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.2.2021::16:10:56</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -50663,7 +50664,7 @@ _REQ</m_str>
 			</_theMainDiagram>
 			<_modifiedTime type="a">2.2.2021::5:59:30</_modifiedTime>
 			<_lastID type="a">27</_lastID>
-			<weakCGTime type="a">2.2.2021::6:12:41</weakCGTime>
+			<weakCGTime type="a">2.2.2021::16:10:56</weakCGTime>
 			<strongCGTime type="a">2.2.2021::4:17:46</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -50916,7 +50917,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DetermineButtonPressed</_hname>
 					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
@@ -50925,7 +50926,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -50965,7 +50966,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DetermineButtonPressed</_hname>
 					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
@@ -50974,7 +50975,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -51044,7 +51045,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DetermineButtonPressed</_hname>
 					<_hid type="a">GUID a1dd8f4b-fb89-43cd-94f4-23d36f05689c</_hid>
@@ -51053,7 +51054,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">ErrorManager</_hname>
 					<_hid type="a">GUID f3b246e0-84da-4069-9658-f708805e308a</_hid>
@@ -51295,8 +51296,8 @@ _REQ</m_str>
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">2.2.2021::5:19:47</_modifiedTime>
-			<_lastModifiedTime type="a">2.2.2021::5:19:47</_lastModifiedTime>
+			<_modifiedTime type="a">2.2.2021::16:12:42</_modifiedTime>
+			<_lastModifiedTime type="a">2.2.2021::16:12:42</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -51339,7 +51340,7 @@ _REQ</m_str>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">12</elementList>
+			<elementList type="a">15</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -51364,6 +51365,9 @@ _REQ</m_str>
 				<value>GUID 319ef298-6765-4024-808b-9afdbc3fcd4f</value>
 				<value>GUID 3a54b600-efac-4b93-8ff4-16bdd91d9e0f</value>
 				<value>GUID 3fd19d7d-a598-45f4-a6e4-4032acacc616</value>
+				<value>GUID 894a7f8d-6cf3-4e52-8e3d-2cf4dc5c1429</value>
+				<value>GUID 8b833286-b51f-4130-8e2a-db1dc2ee9385</value>
+				<value>GUID 34aeb9e7-41dd-4d08-95a2-d663ac93d1f5</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -51501,7 +51505,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">2.63889 0 0 4.40909 20 20 </m_transform>
+			<m_transform type="a">2.63889 0 0 4.01515 20 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -51582,7 +51586,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">0 0.226804 -0.378947 5.15693e-14 230.779 88.9614 </m_transform>
+			<m_transform type="a">0 0.249056 -0.378947 5.66289e-14 230.779 97.7465 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -51704,7 +51708,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">3.90002e-07 0.226804 -0.378947 2.3342e-07 230.779 34.0267 </m_transform>
+			<m_transform type="a">3.90002e-07 0.249056 -0.378947 2.56322e-07 230.779 37.4523 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -51826,7 +51830,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
-			<m_transform type="a">-0 -0.226804 0.378947 -5.15693e-14 -14.7789 35.1621 </m_transform>
+			<m_transform type="a">-0 -0.249056 0.378947 -5.66289e-14 -14.7789 38.5417 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -51895,6 +51899,28 @@ _REQ</m_str>
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
 						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">ActivityDiagram</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">0,0,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
@@ -51946,7 +51972,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.924242 0 0 1 183 474 </m_transform>
+			<m_transform type="a">1.12879 0 0 0.675926 158 457 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -52017,11 +52043,11 @@ _REQ</m_str>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 505 557  505 444  </m_arrow>
+			<m_arrow type="a">2 520 503  520 444  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">264 83 </m_SourcePort>
+			<m_SourcePort type="a">264 68 </m_SourcePort>
 			<m_TargetPort type="a">32 45 </m_TargetPort>
 			<m_bShowKeyword type="a">1</m_bShowKeyword>
 			<m_showConveyed type="a">name</m_showConveyed>
@@ -52109,12 +52135,12 @@ _REQ</m_str>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 104 143  104 506  </m_arrow>
+			<m_arrow type="a">2 137 143  137 479  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">32 45 </m_SourcePort>
-			<m_TargetPort type="a">0 32 </m_TargetPort>
+			<m_TargetPort type="a">0 33 </m_TargetPort>
 			<m_bShowKeyword type="a">1</m_bShowKeyword>
 			<m_showConveyed type="a">name</m_showConveyed>
 			<m_keyword type="p">
@@ -52157,6 +52183,28 @@ _REQ</m_str>
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">ActivityDiagram</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">0,0,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
@@ -52209,7 +52257,7 @@ _REQ</m_str>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.924242 0 0 1.09259 183 291 </m_transform>
+			<m_transform type="a">1.12879 0 0 0.675926 158 274 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -52280,7 +52328,7 @@ _REQ</m_str>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 104 143  104 352  </m_arrow>
+			<m_arrow type="a">2 137 143  137 312  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -52372,11 +52420,11 @@ _REQ</m_str>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 505 323  505 202  </m_arrow>
+			<m_arrow type="a">2 520 298  520 202  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">264 29 </m_SourcePort>
+			<m_SourcePort type="a">264 36 </m_SourcePort>
 			<m_TargetPort type="a">32 45 </m_TargetPort>
 			<m_bShowKeyword type="a">1</m_bShowKeyword>
 			<m_showConveyed type="a">name</m_showConveyed>
@@ -52464,11 +52512,296 @@ _REQ</m_str>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 505 351  505 444  </m_arrow>
+			<m_arrow type="a">2 520 322  520 444  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">264 55 </m_SourcePort>
+			<m_SourcePort type="a">264 71 </m_SourcePort>
+			<m_TargetPort type="a">32 45 </m_TargetPort>
+			<m_bShowKeyword type="a">1</m_bShowKeyword>
+			<m_showConveyed type="a">name</m_showConveyed>
+			<m_keyword type="p">
+				<CGIText type="e">
+					<m_str type="a">%ABflow%BB</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_keyword>
+			<m_conveyed type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_conveyed>
+			<m_flow_direction type="a">type_122</m_flow_direction>
+		</CGIInformationFlow>
+		<CGIGenericElement type="e">
+			<_id type="a">GUID 894a7f8d-6cf3-4e52-8e3d-2cf4dc5c1429</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">ActivityDiagram</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">0,0,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">233</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hid type="a">GUID e8febe18-34c4-4c6c-8e88-08892dd8eed5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID cd0d1dc0-83b8-4165-84a7-defda8341f49</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">activity_DigitalInputManager_ButtonWindowStates</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">1.12879 0 0 0.675926 158 77 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 108  264 108  264 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIGenericElement>
+		<CGIInformationFlow type="e">
+			<_id type="a">GUID 8b833286-b51f-4130-8e2a-db1dc2ee9385</_id>
+			<m_type type="a">180</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IInformationFlow</_hm2Class>
+					<_hid type="a">GUID f7b83c48-aca8-4f35-be55-985673817354</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 9760cd9f-a7c1-4366-a143-69807300b470</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 894a7f8d-6cf3-4e52-8e3d-2cf4dc5c1429</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 92 143  92 112  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">32 45 </m_SourcePort>
+			<m_TargetPort type="a">0 52 </m_TargetPort>
+			<m_bShowKeyword type="a">1</m_bShowKeyword>
+			<m_showConveyed type="a">name</m_showConveyed>
+			<m_keyword type="p">
+				<CGIText type="e">
+					<m_str type="a">%ABflow%BB</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_keyword>
+			<m_conveyed type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_conveyed>
+			<m_flow_direction type="a">type_122</m_flow_direction>
+		</CGIInformationFlow>
+		<CGIInformationFlow type="e">
+			<_id type="a">GUID 34aeb9e7-41dd-4d08-95a2-d663ac93d1f5</_id>
+			<m_type type="a">180</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IInformationFlow</_hm2Class>
+					<_hid type="a">GUID 056611bd-2836-41a4-9d1c-4c7b93e4ceeb</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 894a7f8d-6cf3-4e52-8e3d-2cf4dc5c1429</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID f1b63f69-47ff-42ad-a8db-f4def0a09fa1</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">2 520 118  520 202  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">264 61 </m_SourcePort>
 			<m_TargetPort type="a">32 45 </m_TargetPort>
 			<m_bShowKeyword type="a">1</m_bShowKeyword>
 			<m_showConveyed type="a">name</m_showConveyed>
@@ -53647,7 +53980,7 @@ _REQ</m_str>
 			<_id type="a">GUID 7026ce0b-b08f-46a4-bad5-99ed658a3402</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DigitalInputManager_ButtonWindowStates</_name>
-			<_modifiedTimeWeak type="a">2.2.2021::5:36:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.2.2021::16:10:56</_modifiedTimeWeak>
 			<_modifiedTime type="a">2.2.2021::5:33:49</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">1</_virtual>
@@ -53673,10 +54006,16 @@ _REQ</m_str>
 				<_id type="a">GUID e8febe18-34c4-4c6c-8e88-08892dd8eed5</_id>
 				<_myState type="a">8192</_myState>
 				<_name type="a">activity_DigitalInputManager_ButtonWindowStates</_name>
-				<_modifiedTimeWeak type="a">2.2.2021::5:36:33</_modifiedTimeWeak>
-				<_modifiedTime type="a">2.2.2021::5:36:33</_modifiedTime>
-				<_lastID type="a">1</_lastID>
-				<weakCGTime type="a">2.2.2021::5:36:33</weakCGTime>
+				<_modifiedTimeWeak type="a">2.2.2021::16:10:56</_modifiedTimeWeak>
+				<_theMainDiagram type="r">
+					<IHandle type="e">
+						<_hm2Class type="a">IStructureDiagram</_hm2Class>
+						<_hid type="a">GUID e234a5d4-f2f2-4723-a77e-8908f936a5fa</_hid>
+					</IHandle>
+				</_theMainDiagram>
+				<_modifiedTime type="a">2.2.2021::16:10:56</_modifiedTime>
+				<_lastID type="a">2</_lastID>
+				<weakCGTime type="a">2.2.2021::16:10:56</weakCGTime>
 				<strongCGTime type="a">2.2.2021::5:33:59</strongCGTime>
 				<_itsStateChart type="r">
 					<IHandle type="e">
@@ -53689,10 +54028,31 @@ _REQ</m_str>
 				<_diagram type="s">GUID 9acc96b1-4501-4f3c-ad38-d1925832e9b7</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
+					<value>GUID 056611bd-2836-41a4-9d1c-4c7b93e4ceeb</value>
 					<value>GUID ecd59d43-0690-47c4-91c1-25e915812bfe</value>
 					<value>GUID 9acc96b1-4501-4f3c-ad38-d1925832e9b7</value>
 				</AggregatesList>
 			</IActivityGraph>
+			<IInformationFlow type="e">
+				<_id type="a">GUID 056611bd-2836-41a4-9d1c-4c7b93e4ceeb</_id>
+				<_myState type="a">2048</_myState>
+				<_name type="a">activity_DigitalInputManager_ButtonWindowStates_sp_ButtonWindow</_name>
+				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.2.2021::16:10:56</_modifiedTime>
+				<end1_ type="r">
+					<IHandle type="e">
+						<_hm2Class type="a">IActivityGraph</_hm2Class>
+						<_hid type="a">GUID e8febe18-34c4-4c6c-8e88-08892dd8eed5</_hid>
+					</IHandle>
+				</end1_>
+				<end2_ type="r">
+					<IHandle type="e">
+						<_hm2Class type="a">IPort</_hm2Class>
+						<_hid type="a">GUID 3802b892-fb85-4b97-a86c-6cf828c1fe45</_hid>
+					</IHandle>
+				</end2_>
+				<direction_ type="a">toEnd2</direction_>
+			</IInformationFlow>
 			<IState type="e">
 				<_id type="a">GUID ecd59d43-0690-47c4-91c1-25e915812bfe</_id>
 				<_modifiedTimeWeak type="a">2.2.2021::5:36:33</_modifiedTimeWeak>
@@ -66947,7 +67307,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CheckConfigurationInfo</_hname>
 					<_hid type="a">GUID 2eee306c-57d4-4af9-8a74-dd261eec92cb</_hid>
@@ -66956,7 +67316,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -66990,7 +67350,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CheckConfigurationInfo</_hname>
 					<_hid type="a">GUID 2eee306c-57d4-4af9-8a74-dd261eec92cb</_hid>
@@ -66999,7 +67359,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -67168,16 +67528,16 @@ _REQ</m_str>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">2.2.2021::4:17:21</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.2.2021::16:10:50</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID e9682476-f149-40c2-8251-df4276f43009</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">2.2.2021::4:17:21</_modifiedTime>
-			<_lastID type="a">28</_lastID>
-			<weakCGTime type="a">2.2.2021::4:17:21</weakCGTime>
+			<_modifiedTime type="a">2.2.2021::16:10:50</_modifiedTime>
+			<_lastID type="a">29</_lastID>
+			<weakCGTime type="a">2.2.2021::16:10:50</weakCGTime>
 			<strongCGTime type="a">1.21.2021::20:38:1</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -67204,6 +67564,7 @@ _REQ</m_str>
 				<value>GUID a073af23-d05c-45ef-88db-45e522430601</value>
 				<value>GUID 1293c158-0714-4c24-90f9-e97d07476a64</value>
 				<value>GUID 60cc84a2-9443-428b-a4a8-4e937ce71d00</value>
+				<value>GUID f7b83c48-aca8-4f35-be55-985673817354</value>
 				<value>GUID 6bd86cfa-6d0d-41d8-8186-2795660217c3</value>
 				<value>GUID 08e826e9-8f8f-4590-a1e8-6ebec9148152</value>
 				<value>GUID 21280ef5-5a02-4a7b-bf38-551e784372f3</value>
@@ -67442,7 +67803,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -67451,7 +67812,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CalculateCANFrame</_hname>
 					<_hid type="a">GUID dfeb4d73-1be0-412f-8ed3-dc531e28121d</_hid>
@@ -67497,7 +67858,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -67506,7 +67867,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">UpdateDigitalOutput</_hname>
 					<_hid type="a">GUID d4846990-ac83-4471-87e4-f50c40270fd3</_hid>
@@ -67554,7 +67915,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -67563,7 +67924,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">ErrorManager</_hname>
 					<_hid type="a">GUID f3b246e0-84da-4069-9658-f708805e308a</_hid>
@@ -67654,6 +68015,26 @@ _REQ</m_str>
 				<IHandle type="e">
 					<_hm2Class type="a">IActivityGraph</_hm2Class>
 					<_hid type="a">GUID 31d746d7-df2f-47f8-89d8-5fb9de998e7e</_hid>
+				</IHandle>
+			</end2_>
+			<direction_ type="a">toEnd2</direction_>
+		</IInformationFlow>
+		<IInformationFlow type="e">
+			<_id type="a">GUID f7b83c48-aca8-4f35-be55-985673817354</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">sp_ConfigurationInfo_activity_DigitalInputManager_ButtonWindowStates</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.2.2021::16:10:50</_modifiedTime>
+			<end1_ type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hid type="a">GUID 6bd86cfa-6d0d-41d8-8186-2795660217c3</_hid>
+				</IHandle>
+			</end1_>
+			<end2_ type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hid type="a">GUID e8febe18-34c4-4c6c-8e88-08892dd8eed5</_hid>
 				</IHandle>
 			</end2_>
 			<direction_ type="a">toEnd2</direction_>
@@ -68535,7 +68916,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -68613,7 +68994,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -68622,7 +69003,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">UpdateDigitalOutput</_hname>
 					<_hid type="a">GUID d4846990-ac83-4471-87e4-f50c40270fd3</_hid>
@@ -68677,7 +69058,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -68717,7 +69098,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">AntiPinchFunctionality</_hname>
 					<_hid type="a">GUID 36353301-4322-4643-b1a0-565146f66d5c</_hid>
@@ -68726,7 +69107,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -68760,7 +69141,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">WindowControl</_hname>
 					<_hid type="a">GUID 0fbd8315-5c73-4f33-aff4-344715b926a7</_hid>
@@ -68769,7 +69150,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">AntiPinchFunctionality</_hname>
 					<_hid type="a">GUID 36353301-4322-4643-b1a0-565146f66d5c</_hid>
@@ -69653,7 +70034,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CanTranslation</_hname>
 					<_hid type="a">GUID 89396f8d-94e8-43e4-a258-3631eef65d3d</_hid>
@@ -69662,7 +70043,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">DoorLocking</_hname>
 					<_hid type="a">GUID 1f8df8fb-bd10-4dbf-b9e3-dbded2c71df3</_hid>
@@ -69709,7 +70090,7 @@ _REQ</m_str>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CalculateCANFrame</_hname>
 					<_hid type="a">GUID dfeb4d73-1be0-412f-8ed3-dc531e28121d</_hid>
@@ -69718,7 +70099,7 @@ _REQ</m_str>
 			<end2_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hname type="a">CalculateCrc8Byte</_hname>
 					<_hid type="a">GUID 2cdf8f73-6f8b-4118-b5d4-f24594c388d0</_hid>
@@ -77518,7 +77899,7 @@ _REQ</m_str>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hname type="a">Software</_hname>
 					<_hid type="a">GUID 8163bd0f-4472-457c-a7ca-bab3a2693056</_hid>
@@ -77527,7 +77908,7 @@ _REQ</m_str>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\SystemDefinition.sbsx</_hfilename>
+					<_hfilename type="a">.\..\DCU_rpy\SystemDefinition.sbsx</_hfilename>
 					<_hsubsystem type="a">SystemDefinition</_hsubsystem>
 					<_hclass type="a">Software</_hclass>
 					<_hname type="a">itsOS_Layer</_hname>
