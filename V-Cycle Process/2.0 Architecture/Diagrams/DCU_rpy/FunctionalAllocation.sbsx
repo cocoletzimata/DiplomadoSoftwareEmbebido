@@ -12,10 +12,10 @@
 			<_id type="a">GUID 12a91eca-f58b-4284-a5db-4da99ee6366b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalAllocation</_name>
-			<_modifiedTimeWeak type="a">1.22.2021::1:24:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.22.2021::1:26:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.1.2021::23:55:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.2.2021::0:34:38</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">1.22.2021::1:24:54</weakCGTime>
+			<weakCGTime type="a">2.1.2021::23:55:53</weakCGTime>
 			<strongCGTime type="a">1.21.2021::23:17:40</strongCGTime>
 			<_defaultComposite type="s">GUID c83ef556-64c9-4fcb-997c-e21ca77cbbfb</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -312,8 +312,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.21.2021::23:28:58</_modifiedTime>
-			<_lastModifiedTime type="a">1.21.2021::23:28:58</_lastModifiedTime>
+			<_modifiedTime type="a">2.1.2021::23:55:53</_modifiedTime>
+			<_lastModifiedTime type="a">2.1.2021::23:55:53</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2321,14 +2321,14 @@
 					<_hm2Class type="a">IClass</_hm2Class>
 					<_hfilename type="a">.\PhysicalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
-					<_hname type="a">ButtonManager</_hname>
+					<_hname type="a">DigitalInputManager</_hname>
 					<_hid type="a">GUID 73230d50-768b-465a-904e-70d31f3a13a2</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 7628aff4-d5be-4fea-8710-992561cc98ee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ButtonManager</m_str>
+					<m_str type="a">DigitalInputManager</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2410,7 +2410,7 @@
 					<_hfilename type="a">.\FunctionalArchitecture.sbsx</_hfilename>
 					<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
 					<_hclass type="a">DetermineButtonPressed</_hclass>
-					<_hname type="a">ButtonManager</_hname>
+					<_hname type="a">DigitalInputManager</_hname>
 					<_hid type="a">GUID f504a6fb-d71e-49f3-94ec-ac676c773bb8</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -3024,14 +3024,6 @@
 					
 				</IRPYRawContainer>
 			</DataColumns>
-			<TableFromElementTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</TableFromElementTypes>
-			<TableToElementTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</TableToElementTypes>
 			<AggregatesList type="e">
 				<value>GUID 640922c8-69e0-4169-9023-7b6e5a55b09f</value>
 			</AggregatesList>
@@ -3041,7 +3033,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">ViewsToSearch</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -3058,7 +3050,7 @@
 		<ILiteralSpecification type="e">
 			<_id type="a">GUID cc479b45-9656-44f4-aabb-2b6d8533a830</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::18:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_value type="a">All</_value>
 		</ILiteralSpecification>
 		<ITableInstance type="e">
