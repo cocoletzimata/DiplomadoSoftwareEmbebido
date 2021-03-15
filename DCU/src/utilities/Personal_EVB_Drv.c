@@ -21,7 +21,7 @@ void LED_RGB(uint8_t Color, bool State_LED){
 }
 
 
-void LED_State(bool State_LED, const GPIO_Type * const GPIO, uint8_t PIN){
+void LED_State(bool State_LED, GPIO_Type * const GPIO, uint8_t PIN){
 
 
 	if(State_LED)

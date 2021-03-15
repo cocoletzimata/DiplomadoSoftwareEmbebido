@@ -19,7 +19,7 @@ typedef enum{
 
 }WindowActuationState_Type;
 
-WindowActuationState_Type *_WindowAtuationState;
+
 
 /*This function belongs to iSafety interface and gives us the window Actuation state */
 extern void activity_SafetyDecisions(void);

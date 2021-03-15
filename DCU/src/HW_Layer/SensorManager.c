@@ -98,6 +98,11 @@
 
   uint16_t GetAdcCounts(void)
   {
+	  if (adcConvDone == true)
+	   	{
+	   			adcConvDone = false;
+	   			PDB_DRV_SoftTriggerCmd(PDB_INSTANCE);
+	   	}
 
 	  return adcRawValue;
   }

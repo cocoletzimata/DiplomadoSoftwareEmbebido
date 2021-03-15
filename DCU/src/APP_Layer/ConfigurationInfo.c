@@ -9,16 +9,21 @@
 
 
 
+
 void GetConfigurationType (ConfigurationType *DoorType);
 void ConfigurationInfo_Init (void);
 
-ConfigurationType *_DoorType;
+
+static ConfigurationType *DoorConfiguration;
 
 void GetConfigurationType (ConfigurationType *DoorType)
 {
 
-	_DoorType = DoorType;
+	*DoorType = *DoorConfiguration;
+
+
 }
+
 
 void ConfigurationInfo_Init (void)
 {
