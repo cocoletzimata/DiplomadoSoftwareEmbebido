@@ -9,7 +9,7 @@
 
 
 
-void LED(uint8_t Color, bool State_LED){
+void LED_RGB(uint8_t Color, bool State_LED){
 
 	 if(State_LED){
 
@@ -19,6 +19,23 @@ void LED(uint8_t Color, bool State_LED){
 	 }
 
 }
+
+
+void LED_State(bool State_LED, const GPIO_Type * const GPIO, uint8_t PIN){
+
+
+	if(State_LED)
+	{
+
+		PINS_DRV_ClearPins(GPIO, 1 << PIN);
+	}
+	else
+	{
+		PINS_DRV_SetPins(GPIO, 1 << PIN);
+	}
+
+}
+
 
 
 bool Read_Pin(const GPIO_Type * const GPIO, uint8_t PIN){
@@ -36,3 +53,8 @@ bool Read_Pin(const GPIO_Type * const GPIO, uint8_t PIN){
 
     return retval;
 }
+
+
+
+
+
