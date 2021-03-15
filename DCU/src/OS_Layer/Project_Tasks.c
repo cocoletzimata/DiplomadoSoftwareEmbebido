@@ -26,7 +26,7 @@
 
 /* SDK includes. */
 #include "BoardDefines.h"
-
+#include "ConfigurationInfo.h"
 
 
 /*system tasks*/
@@ -60,6 +60,7 @@ static void Task_20ms( void *pvParameters )
 {
 
 
+
 	TickType_t xNextWakeTime; //tick modeling
 
 	/* Casting pvParameters to void because it is unused */
@@ -72,9 +73,9 @@ static void Task_20ms( void *pvParameters )
 	xNextWakeTime = xTaskGetTickCount();
 
 	  /*LEDs initialization*/
-	  LED(RED,OFF);
-	  LED(GREEN,OFF);
-	  LED(BLUE,OFF);
+	LED_RGB(RED,OFF);
+	LED_RGB(GREEN,OFF);
+	LED_RGB(BLUE,OFF);
 
 	for( ;; )
 	{
@@ -87,26 +88,32 @@ static void Task_20ms( void *pvParameters )
 
         /*ADC update*/
 
-	   if (adcConvDone == true)
+	  if (adcConvDone == true)
 		{
 			/* Clear conversion done interrupt flag */
 			adcConvDone = false;
 			/* Trigger PDB timer */
 			PDB_DRV_SoftTriggerCmd(PDB_INSTANCE);
-		}
+	     }
 
 		/*flag update*/
 
-		if(adcRawValue >= 500)
+
+
+		if( *DoorConfiguration == Rear_Right_Door)
 		{
-			adc_threshold_exceeded = true;
+			      LED_RGB(RED,OFF);
+				  LED_RGB(GREEN,ON);
+				  LED_RGB(BLUE,OFF);
 		}
 		else
 		{
-			adc_threshold_exceeded = false;
+			      LED_RGB(RED,OFF);
+			      LED_RGB(GREEN,OFF);
+			      LED_RGB(BLUE,OFF);
 		}
 
-
+		//ConfigurationInfo_Init ();
 
 	}
 }
@@ -114,14 +121,6 @@ static void Task_20ms( void *pvParameters )
 static void Task_100ms( void *pvParameters )
 {
 
-	status_t local_satus;
-
-	uint8_t test_tx_data[8];
-
-	volatile uint8_t debug_Error_Status;
-
-	bool button1State;
-	bool button2State;
 
 
 	TickType_t xNextWakeTime; //tick modeling
@@ -147,73 +146,7 @@ static void Task_100ms( void *pvParameters )
 		vTaskDelayUntil( &xNextWakeTime, Task_100ms_Period );
 
 
-        button1State = Read_Pin(PTC,SW2);
-        button2State = Read_Pin(PTC,SW3);
 
-
-        if(button1State)
-        {
-        	test_tx_data[0] |= BIT0;
-        }
-        else
-        {
-        	test_tx_data[0] &= ~BIT0;
-        }
-
-        if(button2State)
-		{
-			test_tx_data[1] |= BIT0 ;
-		}
-		else
-		{
-			test_tx_data[1] &= ~BIT0 ;
-		}
-
-		test_tx_data[2]= 0x00;
-		test_tx_data[3]= 0x00;
-		test_tx_data[4]= 0x00;
-		test_tx_data[5]= 0x00;
-		test_tx_data[6]= 0x00;
-		test_tx_data[7]= 0x00;
-
-		/*Send test CAN Message*/
-		local_satus = send_CAN_message(0x10, 8, &test_tx_data[0]);
-
-		if(local_satus != STATUS_SUCCESS){
-
-			debug_Error_Status++;
-		}
-
-
-		toggleLED = (rx_message.data[0] & (1 << 0));
-
-		/*LED blink*/
-		if(adc_threshold_exceeded)
-		{
-			//
-			if(rx_message.id == 0x20 && toggleLED == 1 )
-			{
-				/*LED Toggle */
-				TogglePins = !TogglePins;
-				if(TogglePins)
-				{
-					LED(RED,ON);
-				}
-				else
-				{
-					LED(RED,OFF);
-				}
-			}
-			else if (rx_message.id == 0x20 && toggleLED == 0)
-			{
-				LED(RED,ON);
-			}
-			else{}
-		}
-		else
-		{
-			LED(RED,OFF);
-		}
 
 
 
