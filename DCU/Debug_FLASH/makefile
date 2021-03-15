@@ -49,7 +49,7 @@ DCU.siz \
 all: DCU.elf secondary-outputs
 
 # Tool invocations
-DCU.elf: $(OBJS) C:\NXP\S32DS.3.3\S32DS\software\S32SDK_S32K1XX_RTM_4.0.1\platform\devices\S32K144\linker\gcc\S32K144_64_flash.ld $(USER_OBJS)
+DCU.elf: $(OBJS) C:\NXP\S32DS.3.4\S32DS\software\S32SDK_S32K1XX_RTM_4.0.1\platform\devices\S32K144\linker\gcc\S32K144_64_flash.ld $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Standard S32DS C Linker'
 	arm-none-eabi-gcc -o "DCU.elf" "@DCU.args"  $(USER_OBJS) $(LIBS)

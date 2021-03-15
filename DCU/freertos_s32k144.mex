@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding= "UTF-8" ?>
-<configuration name="S32K144" version="1.7" xsi:schemaLocation="http://mcuxpresso.nxp.com/XSD/mex_configuration_1.7 http://mcuxpresso.nxp.com/XSD/mex_configuration_1.7.xsd" uuid="9571db65-96d6-4d88-a9c8-bfbc0417279b" xmlns="http://mcuxpresso.nxp.com/XSD/mex_configuration_1.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<configuration name="S32K144" xsi:schemaLocation="http://mcuxpresso.nxp.com/XSD/mex_configuration_1.9 http://mcuxpresso.nxp.com/XSD/mex_configuration_1.9.xsd" uuid="9571db65-96d6-4d88-a9c8-bfbc0417279b" version="1.9" xmlns="http://mcuxpresso.nxp.com/XSD/mex_configuration_1.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <common>
       <processor>S32K144</processor>
       <package>S32K144_LQFP100</package>
@@ -15,7 +15,7 @@
       <generate_code_modified_registers_only>false</generate_code_modified_registers_only>
    </preferences>
    <tools>
-      <pins name="Pins" version="7.0" enabled="true" update_project_code="true">
+      <pins name="Pins" version="8.0" enabled="true" update_project_code="true">
          <generated_project_files>
             <file path="board/pin_mux.c" update_enabled="true"/>
             <file path="board/pin_mux.h" update_enabled="true"/>
@@ -25,14 +25,39 @@
             <power_domains/>
             <pin_labels>
                <pin_label pin_num="68" pin_signal="PTB12" label="BTN0" identifier="BTN0"/>
-               <pin_label pin_num="22" pin_signal="PTD15" label="GREEN_LED" identifier="GREEN_LED;RED_LED"/>
+               <pin_label pin_num="22" pin_signal="PTD15" label="RED_LED" identifier="GREEN_LED;RED_LED"/>
                <pin_label pin_num="21" pin_signal="PTD16" label="GREEN_LED" identifier="GREEN_LED"/>
                <pin_label pin_num="4" pin_signal="PTD0" label="BLUE_LED" identifier="BLUE_LED"/>
                <pin_label pin_num="46" pin_signal="PTC14" label="ADC_01" identifier="ADC_01"/>
                <pin_label pin_num="8" pin_signal="PTE5" label="CAN_TX" identifier="CAN_TX"/>
                <pin_label pin_num="9" pin_signal="PTE4" label="CAN_RX" identifier="CAN_RX"/>
-               <pin_label pin_num="50" pin_signal="PTC12" label="SW2" identifier="SW2"/>
-               <pin_label pin_num="49" pin_signal="PTC13" label="SW3" identifier="SW3"/>
+               <pin_label pin_num="50" pin_signal="PTC12" label="OPEN_BTN" identifier="SW2;OPEN_BTN"/>
+               <pin_label pin_num="49" pin_signal="PTC13" label="CLOSE_BTN" identifier="SW3;CLOSE_BTN"/>
+               <pin_label pin_num="40" pin_signal="PTC0" label="PASSENGER_OPEN_BTN" identifier="PASSENGER_OPEN_BTN"/>
+               <pin_label pin_num="39" pin_signal="PTC1" label="PASSENGER_CLOSE_BTN" identifier="PASSENGER_CLOSE_BTN"/>
+               <pin_label pin_num="30" pin_signal="PTC2" label="REARLEFT_OPEN_BTN" identifier="REARLEFT_OPEN_BTN"/>
+               <pin_label pin_num="29" pin_signal="PTC3" label="REARLEFT_CLOSE_BTN" identifier="REARLEFT_CLOSE_BTN"/>
+               <pin_label pin_num="96" pin_signal="PTC4" label="REARRIGHT_OPEN_BTN" identifier="REARRIGHT_OPEN_BTN"/>
+               <pin_label pin_num="95" pin_signal="PTC5" label="REARRIGHT_CLOSE_BTN" identifier="REARRIGHT_CLOSE_BTN"/>
+               <pin_label pin_num="81" pin_signal="PTC6" label="REAR_WINDOW_LOCK_BTN" identifier="REAR_WINDOW_LOCK_BTN"/>
+               <pin_label pin_num="80" pin_signal="PTC7" label="LOCK_BTN" identifier="LOCK_BTN"/>
+               <pin_label pin_num="56" pin_signal="PTC8" label="UNLOCK_BTN" identifier="UNLOCK_BTN"/>
+               <pin_label pin_num="55" pin_signal="PTC9" label="MSB_SW_VARIANT" identifier="MSB_SW_VARIANT"/>
+               <pin_label pin_num="51" pin_signal="PTC11" label="LSB_SW_VARIANT" identifier="LSB_SW_VARIANT"/>
+               <pin_label pin_num="3" pin_signal="PTD1" label="LED_1_WINDOW" identifier="LED_1_WINDOW"/>
+               <pin_label pin_num="71" pin_signal="PTD2" label="LED_2_WINDOW" identifier="LED_2_WINDOW"/>
+               <pin_label pin_num="70" pin_signal="PTD3" label="LED_3_WINDOW" identifier="LED_3_WINDOW"/>
+               <pin_label pin_num="69" pin_signal="PTD4" label="LED_4_WINDOW" identifier="LED_4_WINDOW"/>
+               <pin_label pin_num="33" pin_signal="PTD5" label="LED_5_WINDOW" identifier="LED_5_WINDOW"/>
+               <pin_label pin_num="32" pin_signal="PTD6" label="LED_6_WINDOW" identifier="LED_6_WINDOW"/>
+               <pin_label pin_num="31" pin_signal="PTD7" label="LED_7_WINDOW" identifier="LED_7_WINDOW"/>
+               <pin_label pin_num="42" pin_signal="PTD8" label="LED_8_WINDOW" identifier="LED_8_WINDOW"/>
+               <pin_label pin_num="41" pin_signal="PTD9" label="LED_9_WINDOW" identifier="LED_9_WINDOW"/>
+               <pin_label pin_num="36" pin_signal="PTD10" label="LED_10_WINDOW" identifier="LED_10_WINDOW"/>
+               <pin_label pin_num="35" pin_signal="PTD11" label="SW_WINDOW_CLOSED" identifier="SW_WINDOW_CLOSED;SW_WINDOW_OPEN;SW_WINDOW_CLOSEd"/>
+               <pin_label pin_num="34" pin_signal="PTD12" label="SW_WINDOW_OPEN" identifier="SW_WINDOW_CLOSED;SW_WINDOW_OPEN"/>
+               <pin_label pin_num="25" pin_signal="PTD13" label="SW_DOOR_LOCKED" identifier="SW_DOOR_LOCKED"/>
+               <pin_label pin_num="24" pin_signal="PTD14" label="SW_DOOR_UNLOCKED" identifier="SW_DOOR_UNLOCKED"/>
             </pin_labels>
          </pins_profile>
          <functions_list>
@@ -57,17 +82,18 @@
                   </pin>
                   <pin peripheral="PORTC" signal="port, 13" pin_num="49" pin_signal="PTC13">
                      <pin_features>
+                        <pin_feature name="identifier" value="CLOSE_BTN"/>
                         <pin_feature name="direction" value="INPUT"/>
                      </pin_features>
                   </pin>
                   <pin peripheral="PORTC" signal="port, 0" pin_num="40" pin_signal="PTC0">
                      <pin_features>
-                        <pin_feature name="direction" value="OUTPUT"/>
+                        <pin_feature name="direction" value="INPUT"/>
                      </pin_features>
                   </pin>
                   <pin peripheral="PORTC" signal="port, 1" pin_num="39" pin_signal="PTC1">
                      <pin_features>
-                        <pin_feature name="direction" value="OUTPUT"/>
+                        <pin_feature name="direction" value="INPUT"/>
                      </pin_features>
                   </pin>
                   <pin peripheral="PORTD" signal="port, 0" pin_num="4" pin_signal="PTD0">
@@ -79,6 +105,125 @@
                   <pin peripheral="CAN0" signal="txd, txd" pin_num="8" pin_signal="PTE5"/>
                   <pin peripheral="CAN0" signal="rxd, rxd" pin_num="9" pin_signal="PTE4"/>
                   <pin peripheral="PORTC" signal="port, 12" pin_num="50" pin_signal="PTC12">
+                     <pin_features>
+                        <pin_feature name="identifier" value="OPEN_BTN"/>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 2" pin_num="30" pin_signal="PTC2">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 3" pin_num="29" pin_signal="PTC3">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 4" pin_num="96" pin_signal="PTC4">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 5" pin_num="95" pin_signal="PTC5">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                        <pin_feature name="PS" value="state_0"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 6" pin_num="81" pin_signal="PTC6">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 7" pin_num="80" pin_signal="PTC7">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 8" pin_num="56" pin_signal="PTC8">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 9" pin_num="55" pin_signal="PTC9">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTC" signal="port, 11" pin_num="51" pin_signal="PTC11">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 1" pin_num="3" pin_signal="PTD1">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 2" pin_num="71" pin_signal="PTD2">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 3" pin_num="70" pin_signal="PTD3">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 4" pin_num="69" pin_signal="PTD4">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 5" pin_num="33" pin_signal="PTD5">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 6" pin_num="32" pin_signal="PTD6">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 7" pin_num="31" pin_signal="PTD7">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 8" pin_num="42" pin_signal="PTD8">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 9" pin_num="41" pin_signal="PTD9">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 10" pin_num="36" pin_signal="PTD10">
+                     <pin_features>
+                        <pin_feature name="direction" value="OUTPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 11" pin_num="35" pin_signal="PTD11">
+                     <pin_features>
+                        <pin_feature name="identifier" value="SW_WINDOW_CLOSED"/>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 12" pin_num="34" pin_signal="PTD12">
+                     <pin_features>
+                        <pin_feature name="identifier" value="SW_WINDOW_OPEN"/>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 13" pin_num="25" pin_signal="PTD13">
+                     <pin_features>
+                        <pin_feature name="direction" value="INPUT"/>
+                     </pin_features>
+                  </pin>
+                  <pin peripheral="PORTD" signal="port, 14" pin_num="24" pin_signal="PTD14">
                      <pin_features>
                         <pin_feature name="direction" value="INPUT"/>
                      </pin_features>
@@ -260,7 +405,7 @@
             <processor_version>N/A</processor_version>
          </quadspi_profile>
       </quadspi>
-      <periphs name="Peripherals" version="7.0" enabled="true" update_project_code="true">
+      <periphs name="Peripherals" version="8.0" enabled="true" update_project_code="true">
          <dependencies>
             <dependency resourceType="SWComponent" resourceId="platform.driver.adc" description="ADC driver not found in the toolchain/IDE project. Project will not compile!" problem_level="2" source="Peripherals">
                <feature name="enabled" evaluation="equal">
