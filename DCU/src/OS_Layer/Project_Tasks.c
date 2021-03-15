@@ -39,9 +39,7 @@ volatile int exit_code = 0;
 
 
 /*Global variables*/
-int adc_threshold_exceeded;
-int TogglePins = 1;
-bool toggleLED;
+
 
 void Tasks_INIT(void){
 
@@ -59,8 +57,6 @@ void Tasks_INIT(void){
 static void Task_20ms( void *pvParameters )
 {
 
-
-
 	TickType_t xNextWakeTime; //tick modeling
 
 	/* Casting pvParameters to void because it is unused */
@@ -72,10 +68,6 @@ static void Task_20ms( void *pvParameters )
 	 * xLastWakeTime is managed automatically by the vTaskDelayUntil()API function. */
 	xNextWakeTime = xTaskGetTickCount();
 
-	  /*LEDs initialization*/
-	LED_RGB(RED,OFF);
-	LED_RGB(GREEN,OFF);
-	LED_RGB(BLUE,OFF);
 
 	for( ;; )
 	{
@@ -86,34 +78,9 @@ static void Task_20ms( void *pvParameters )
 		time. */
 		vTaskDelayUntil( &xNextWakeTime, Task_20ms_Period );
 
-        /*ADC update*/
-
-	  if (adcConvDone == true)
-		{
-			/* Clear conversion done interrupt flag */
-			adcConvDone = false;
-			/* Trigger PDB timer */
-			PDB_DRV_SoftTriggerCmd(PDB_INSTANCE);
-	     }
-
-		/*flag update*/
 
 
 
-		if( *DoorConfiguration == Rear_Right_Door)
-		{
-			      LED_RGB(RED,OFF);
-				  LED_RGB(GREEN,ON);
-				  LED_RGB(BLUE,OFF);
-		}
-		else
-		{
-			      LED_RGB(RED,OFF);
-			      LED_RGB(GREEN,OFF);
-			      LED_RGB(BLUE,OFF);
-		}
-
-		//ConfigurationInfo_Init ();
 
 	}
 }
