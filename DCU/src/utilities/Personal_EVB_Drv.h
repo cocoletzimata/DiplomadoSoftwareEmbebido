@@ -23,6 +23,6 @@
 
 extern void LED_RGB(uint8_t Color, bool State_LED);
 extern bool Read_Pin(const GPIO_Type * const GPIO, uint8_t PIN);
-extern void LED_State(bool State_LED, const GPIO_Type * const GPIO, uint8_t PIN);
+extern void LED_State(bool State_LED, GPIO_Type * const GPIO, uint8_t PIN);
 
 #endif /* PERSONAL_EVB_DRV_H_ */
