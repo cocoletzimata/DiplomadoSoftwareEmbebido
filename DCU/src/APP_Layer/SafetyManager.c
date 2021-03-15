@@ -7,8 +7,9 @@
 
 #include "SensorManager.h"
 #include "SafetyManager.h"
+#include "WindowControlApp.h"
 
-
+static WindowActuationState_Type *_WindowAtuationState;
 
 void activity_SafetyDecisions(void);
 void WriteWindowActuationState(WindowActuationState_Type * WindowAtuationState);
@@ -28,7 +29,7 @@ void activity_SafetyDecisions(void)
 		{
 			if(GetAdcCounts()> ANTIPINCH_THRESHOLD)
 			{
-				*_WindowAtuationState = CANCEL_WINDOW_ACTUATION;
+				WriteCancelWindowOp(CANCEL_WINDOW_ACTUATION);
 			}
 			else
 			{

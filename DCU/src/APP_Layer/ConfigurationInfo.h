@@ -16,8 +16,7 @@ typedef enum{
 
 }ConfigurationType;
 
-extern ConfigurationType *_DoorType;
- ConfigurationType *DoorConfiguration;
+
 
 extern void GetConfigurationType (ConfigurationType *DoorType);
 extern void ConfigurationInfo_Init (void);
